@@ -76,11 +76,11 @@ For a comprehensive list with many more clients along with screenshots, the
 [Matrix clients table](https://matrix.org/clients/) is a good resource.
 
 * [Element](https://element.io) - A glossy client with an emphasis on
-  performance and usability. ([Web](https://github.com/vector-im/element-web) ⭐ 13,370 | 🐛 3,849 | 🌐 TypeScript | 📅 2026-08-13,
+  performance and usability. ([Web](https://github.com/vector-im/element-web) ⭐ 13,375 | 🐛 3,835 | 🌐 TypeScript | 📅 2026-08-14,
   [iOS](https://github.com/vector-im/element-ios) ⭐ 1,839 | 🐛 1,759 | 🌐 Swift | 📅 2026-06-23,
-  [Android](https://github.com/vector-im/element-android) ⭐ 3,716 | 🐛 2,210 | 🌐 Kotlin | 📅 2026-08-11) `Apache-2.0`
+  [Android](https://github.com/vector-im/element-android) ⭐ 3,718 | 🐛 2,210 | 🌐 Kotlin | 📅 2026-08-11) `Apache-2.0`
   `TypeScript`, `Swift`, `Kotlin`
-* [FluffyChat](https://github.com/krille-chan/fluffychat) ⭐ 3,048 | 🐛 555 | 🌐 Dart | 📅 2026-08-13 - Cute instant messaging
+* [FluffyChat](https://github.com/krille-chan/fluffychat) ⭐ 3,048 | 🐛 559 | 🌐 Dart | 📅 2026-08-14 - Cute instant messaging
   app for all platforms. ([Chat](https://matrix.to/#/#fluffychat:matrix.org))
   `AGPL-3.0` `Flutter`
 * [Safesupport chatbox](https://github.com/nomadic-labs/safesupport-chatbox) ⭐ 75 | 🐛 28 | 🌐 JavaScript | 📅 2023-01-05 -
@@ -95,7 +95,7 @@ For a comprehensive list with many more clients along with screenshots, the
 ## Collaborative Documents
 
 * [Matrix CRDT](https://github.com/yousefED/matrix-crdt) ⭐ 785 | 🐛 8 | 🌐 TypeScript | 📅 2024-03-27 - Integrates CRDTs like
-  [Yjs](https://github.com/yjs/yjs) ⭐ 22,344 | 🐛 135 | 🌐 JavaScript | 📅 2026-08-06 with Matrix for storage and sync. `MPL-2.0`
+  [Yjs](https://github.com/yjs/yjs) ⭐ 22,353 | 🐛 135 | 🌐 JavaScript | 📅 2026-08-06 with Matrix for storage and sync. `MPL-2.0`
   `TypeScript`
 * [TheBoard](https://toger5.github.io/TheBoard/) - Collaborative whiteboard
   powered by Matrix. ([Repo](https://github.com/toger5/TheBoard) ⭐ 410 | 🐛 18 | 🌐 JavaScript | 📅 2022-01-13,
@@ -117,7 +117,7 @@ For a comprehensive list with many more clients along with screenshots, the
   state of the symbols (MIL-STD-2525C) drawn on the map. ODIN is an
   offline-first application and uses LevelDB to persist state locally. At the
   lowest level LevelDB operations are replicated.
-  ([Repo](https://github.com/syncpoint/ODINv2) ⭐ 83 | 🐛 20 | 🌐 JavaScript | 📅 2026-07-06,
+  ([Repo](https://github.com/syncpoint/ODINv2) ⭐ 84 | 🐛 20 | 🌐 JavaScript | 📅 2026-07-06,
   [Chat](https://matrix.to/#/#ODIN.Community:syncpoint.io)) `AGPL-3.0`
   `JavaScript`
 
@@ -195,7 +195,7 @@ Research papers and similar documents studying something related to Matrix.
 
 ## SDKs
 
-* [matrix-rust-sdk](https://github.com/matrix-org/matrix-rust-sdk) ⭐ 2,241 | 🐛 307 | 🌐 Rust | 📅 2026-08-13 - A modular
+* [matrix-rust-sdk](https://github.com/matrix-org/matrix-rust-sdk) ⭐ 2,241 | 🐛 313 | 🌐 Rust | 📅 2026-08-14 - A modular
   SDK for writing Matrix clients, written in Rust. Implements Matrix E2EE in
   a separate crate with a [sans I/O](https://sans-io.readthedocs.io/) design.
   `Apache-2.0` `Rust`
@@ -204,7 +204,7 @@ Research papers and similar documents studying something related to Matrix.
 * [SimpleMatrixClient](https://github.com/heusalagroup/fi.hg.matrix#heusalagroupfihgmatrix) ⚠️ Archived -
   Lightweight, zero dep client library written in TypeScript. `MIT` `TypeScript`
 * [Matrix Client API](https://github.com/syncpoint/matrix-client-api) ⭐ 2 | 🐛 1 | 🌐 JavaScript | 📅 2026-05-21 - A
-  bespoke and well focused SDK for [ODIN](https://github.com/syncpoint/ODINv2) ⭐ 83 | 🐛 20 | 🌐 JavaScript | 📅 2026-07-06.
+  bespoke and well focused SDK for [ODIN](https://github.com/syncpoint/ODINv2) ⭐ 84 | 🐛 20 | 🌐 JavaScript | 📅 2026-07-06.
   Lightweight and well-structured; may be useful for beginners to explore how
   the Matrix API works. `MIT` `JavaScript`
 
@@ -279,4 +279,4 @@ Creative Commons Attribution 4.0 International
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
