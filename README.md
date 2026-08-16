@@ -76,11 +76,11 @@ For a comprehensive list with many more clients along with screenshots, the
 [Matrix clients table](https://matrix.org/clients/) is a good resource.
 
 * [Element](https://element.io) - A glossy client with an emphasis on
-  performance and usability. ([Web](https://github.com/vector-im/element-web) ⭐ 13,379 | 🐛 3,838 | 🌐 TypeScript | 📅 2026-08-14,
+  performance and usability. ([Web](https://github.com/vector-im/element-web) ⭐ 13,382 | 🐛 3,840 | 🌐 TypeScript | 📅 2026-08-14,
   [iOS](https://github.com/vector-im/element-ios) ⭐ 1,839 | 🐛 1,759 | 🌐 Swift | 📅 2026-06-23,
   [Android](https://github.com/vector-im/element-android) ⭐ 3,719 | 🐛 2,210 | 🌐 Kotlin | 📅 2026-08-11) `Apache-2.0`
   `TypeScript`, `Swift`, `Kotlin`
-* [FluffyChat](https://github.com/krille-chan/fluffychat) ⭐ 3,050 | 🐛 559 | 🌐 Dart | 📅 2026-08-15 - Cute instant messaging
+* [FluffyChat](https://github.com/krille-chan/fluffychat) ⭐ 3,052 | 🐛 561 | 🌐 Dart | 📅 2026-08-16 - Cute instant messaging
   app for all platforms. ([Chat](https://matrix.to/#/#fluffychat:matrix.org))
   `AGPL-3.0` `Flutter`
 * [Safesupport chatbox](https://github.com/nomadic-labs/safesupport-chatbox) ⭐ 75 | 🐛 28 | 🌐 JavaScript | 📅 2023-01-05 -
@@ -98,7 +98,7 @@ For a comprehensive list with many more clients along with screenshots, the
   [Yjs](https://github.com/yjs/yjs) ⭐ 22,354 | 🐛 135 | 🌐 JavaScript | 📅 2026-08-06 with Matrix for storage and sync. `MPL-2.0`
   `TypeScript`
 * [TheBoard](https://toger5.github.io/TheBoard/) - Collaborative whiteboard
-  powered by Matrix. ([Repo](https://github.com/toger5/TheBoard) ⭐ 410 | 🐛 18 | 🌐 JavaScript | 📅 2022-01-13,
+  powered by Matrix. ([Repo](https://github.com/toger5/TheBoard) ⭐ 411 | 🐛 18 | 🌐 JavaScript | 📅 2022-01-13,
   [Chat](https://matrix.to/#/#TheBoard:matrix.org)) `MIT` `JavaScript`
 * [Collabs](https://github.com/composablesys/collabs/tree/master/collabs#readme) ⭐ 287 | 🐛 15 | 🌐 TypeScript | 📅 2025-03-25 -
   A collections library for collaborative data structures. `Apache-2.0`
@@ -195,7 +195,7 @@ Research papers and similar documents studying something related to Matrix.
 
 ## SDKs
 
-* [matrix-rust-sdk](https://github.com/matrix-org/matrix-rust-sdk) ⭐ 2,242 | 🐛 313 | 🌐 Rust | 📅 2026-08-14 - A modular
+* [matrix-rust-sdk](https://github.com/matrix-org/matrix-rust-sdk) ⭐ 2,245 | 🐛 314 | 🌐 Rust | 📅 2026-08-16 - A modular
   SDK for writing Matrix clients, written in Rust. Implements Matrix E2EE in
   a separate crate with a [sans I/O](https://sans-io.readthedocs.io/) design.
   `Apache-2.0` `Rust`
@@ -279,4 +279,4 @@ Creative Commons Attribution 4.0 International
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
