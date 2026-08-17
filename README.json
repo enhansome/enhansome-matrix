@@ -53,7 +53,7 @@
             "last_commit": "2026-07-09T08:44:30Z",
             "owner": "maubot",
             "repo": "maubot",
-            "stars": 891
+            "stars": 892
           }
         },
         {
@@ -94,10 +94,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T15:42:02Z",
+            "last_commit": "2026-08-17T16:43:57Z",
             "owner": "element-hq",
             "repo": "element-web",
-            "stars": 13382
+            "stars": 13384
           }
         },
         {
@@ -108,10 +108,10 @@
           "repo_info": {
             "archived": false,
             "language": "Dart",
-            "last_commit": "2026-08-16T10:54:51Z",
+            "last_commit": "2026-08-17T13:46:20Z",
             "owner": "krille-chan",
             "repo": "fluffychat",
-            "stars": 3052
+            "stars": 3054
           }
         },
         {
@@ -209,10 +209,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-16T12:04:50Z",
+            "last_commit": "2026-08-17T15:54:03Z",
             "owner": "matrix-org",
             "repo": "matrix-rust-sdk",
-            "stars": 2245
+            "stars": 2244
           }
         },
         {
@@ -274,7 +274,7 @@
             "last_commit": "2024-04-26T15:47:23Z",
             "owner": "matrix-org",
             "repo": "synapse",
-            "stars": 12100
+            "stars": 12101
           }
         },
         {
@@ -336,7 +336,7 @@
             "last_commit": "2026-07-03T14:45:21Z",
             "owner": "alexbarry",
             "repo": "AlexGames",
-            "stars": 43
+            "stars": 44
           }
         },
         {
@@ -368,7 +368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T16:46:18.479Z",
+    "last_updated": "2026-08-17T16:50:53.838Z",
     "original_repository": "jryans/awesome-matrix",
     "original_repository_sha": "f606190adce84d05e69728baf4dcb8436629a363",
     "enhanced_repository": "enhansome/enhansome-matrix",
