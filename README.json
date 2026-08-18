@@ -94,10 +94,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T16:43:57Z",
+            "last_commit": "2026-08-18T16:29:49Z",
             "owner": "element-hq",
             "repo": "element-web",
-            "stars": 13384
+            "stars": 13385
           }
         },
         {
@@ -108,10 +108,10 @@
           "repo_info": {
             "archived": false,
             "language": "Dart",
-            "last_commit": "2026-08-17T13:46:20Z",
+            "last_commit": "2026-08-18T15:55:22Z",
             "owner": "krille-chan",
             "repo": "fluffychat",
-            "stars": 3054
+            "stars": 3056
           }
         },
         {
@@ -209,7 +209,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-17T15:54:03Z",
+            "last_commit": "2026-08-18T16:18:21Z",
             "owner": "matrix-org",
             "repo": "matrix-rust-sdk",
             "stars": 2244
@@ -368,7 +368,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T16:50:53.838Z",
+    "last_updated": "2026-08-18T16:54:03.001Z",
     "original_repository": "jryans/awesome-matrix",
     "original_repository_sha": "f606190adce84d05e69728baf4dcb8436629a363",
     "enhanced_repository": "enhansome/enhansome-matrix",
