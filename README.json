@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 438403031,
             "language": "TypeScript",
             "last_commit": "2023-04-23T03:38:44Z",
             "owner": "DanilaFe",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 350363258,
             "language": "JavaScript",
             "last_commit": "2026-08-14T22:46:12Z",
             "owner": "lottec-ufpb",
@@ -35,53 +37,47 @@
       "title": "Annotation"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Bots"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "maubot",
-          "description": "A plugin-based Matrix bot system with over 30 plugins for all sorts of things. (Repo, Chat)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-09T08:44:30Z",
-            "owner": "maubot",
-            "repo": "maubot",
-            "stars": 892
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "opsdroid",
-          "description": "A flexible multi-platform chat bot framework with Matrix support including end to end encryption. (Repo, Chat)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-05-05T08:46:46Z",
-            "owner": "opsdroid",
-            "repo": "opsdroid",
-            "stars": 869
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "maubot",
+              "description": "A plugin-based Matrix bot system with over 30 plugins for all sorts of things. (Repo, Chat)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 136799312,
+                "language": "Python",
+                "last_commit": "2026-07-09T08:44:30Z",
+                "owner": "maubot",
+                "repo": "maubot",
+                "stars": 892
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "opsdroid",
+              "description": "A flexible multi-platform chat bot framework with Matrix support including end to end encryption. (Repo, Chat)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 64034523,
+                "language": "Python",
+                "last_commit": "2026-05-05T08:46:46Z",
+                "owner": "opsdroid",
+                "repo": "opsdroid",
+                "stars": 869
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Multi Purpose Bot Platforms"
         }
       ],
-      "title": "Multi Purpose Bot Platforms"
-    },
-    {
-      "description": "Some bots are quick scripts tailored to a specific purpose.",
-      "items": [],
-      "title": "Single Purpose Bots"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Bridges"
+      "title": "Bots"
     },
     {
       "description": "For a comprehensive list with many more clients along with screenshots, the Matrix clients table is a good resource.",
@@ -93,11 +89,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39487546,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T16:29:49Z",
+            "last_commit": "2026-08-19T11:35:32Z",
             "owner": "element-hq",
             "repo": "element-web",
-            "stars": 13385
+            "stars": 13388
           }
         },
         {
@@ -107,11 +104,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 665942673,
             "language": "Dart",
-            "last_commit": "2026-08-18T15:55:22Z",
+            "last_commit": "2026-08-19T07:46:01Z",
             "owner": "krille-chan",
             "repo": "fluffychat",
-            "stars": 3056
+            "stars": 3060
           }
         },
         {
@@ -121,6 +119,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 237651372,
             "language": "JavaScript",
             "last_commit": "2023-01-05T11:17:38Z",
             "owner": "dreamside-digital",
@@ -132,7 +131,7 @@
       "title": "Clients"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -141,6 +140,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 443814373,
             "language": "TypeScript",
             "last_commit": "2024-03-27T13:23:53Z",
             "owner": "YousefED",
@@ -155,6 +155,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 384575118,
             "language": "JavaScript",
             "last_commit": "2022-01-13T17:36:38Z",
             "owner": "toger5",
@@ -169,6 +170,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 274479520,
             "language": "TypeScript",
             "last_commit": "2025-03-25T14:49:38Z",
             "owner": "composablesys",
@@ -183,6 +185,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 217521189,
             "language": "JavaScript",
             "last_commit": "2023-01-07T12:02:59Z",
             "owner": "KB1RD",
@@ -194,12 +197,7 @@
       "title": "Collaborative Documents"
     },
     {
-      "description": "Research papers and similar documents studying something related to Matrix.",
-      "items": [],
-      "title": "Research"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -208,11 +206,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 242174446,
             "language": "Rust",
-            "last_commit": "2026-08-18T16:18:21Z",
+            "last_commit": "2026-08-19T08:57:28Z",
             "owner": "matrix-org",
             "repo": "matrix-rust-sdk",
-            "stars": 2244
+            "stars": 2246
           }
         },
         {
@@ -222,6 +221,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 989816686,
             "language": "Python",
             "last_commit": "2026-08-04T14:36:54Z",
             "owner": "Code-Society-Lab",
@@ -236,6 +236,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 397749031,
             "language": "TypeScript",
             "last_commit": "2024-02-10T14:07:42Z",
             "owner": "heusalagroup",
@@ -250,6 +251,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 574136309,
             "language": "JavaScript",
             "last_commit": "2026-05-21T16:03:04Z",
             "owner": "syncpoint",
@@ -261,7 +263,7 @@
       "title": "SDKs"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -270,6 +272,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 22844864,
             "language": "Python",
             "last_commit": "2024-04-26T15:47:23Z",
             "owner": "matrix-org",
@@ -284,6 +287,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 79585104,
             "language": "Go",
             "last_commit": "2024-11-25T10:18:03Z",
             "owner": "matrix-org",
@@ -298,6 +302,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 484830590,
             "language": "TypeScript",
             "last_commit": "2023-08-12T12:59:23Z",
             "owner": "heusalagroup",
@@ -309,7 +314,7 @@
       "title": "Servers"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -318,6 +323,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 292927372,
             "language": "TypeScript",
             "last_commit": "2026-08-14T20:15:38Z",
             "owner": "matrix-org",
@@ -332,6 +338,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 776650518,
             "language": "Lua",
             "last_commit": "2026-07-03T14:45:21Z",
             "owner": "alexbarry",
@@ -346,6 +353,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 328817826,
             "language": "HTML",
             "last_commit": "2021-08-25T23:45:59Z",
             "owner": "turt2live",
@@ -355,21 +363,12 @@
         }
       ],
       "title": "Widgets"
-    },
-    {
-      "description": "Contributions welcome! 😄 Read the contribution guidelines first.",
-      "items": [],
-      "title": "Contribute"
-    },
-    {
-      "description": "Creative Commons Attribution 4.0 International",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T16:54:03.001Z",
+    "last_updated": "2026-08-19T12:39:27.122Z",
     "original_repository": "jryans/awesome-matrix",
+    "original_repository_id": 380640530,
     "original_repository_sha": "f606190adce84d05e69728baf4dcb8436629a363",
     "enhanced_repository": "enhansome/enhansome-matrix",
     "enhanced_repository_description": null,
