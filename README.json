@@ -27,7 +27,7 @@
             "archived": false,
             "id": 350363258,
             "language": "JavaScript",
-            "last_commit": "2026-08-14T22:46:12Z",
+            "last_commit": "2026-08-19T19:28:38Z",
             "owner": "lottec-ufpb",
             "repo": "populus-viewer",
             "stars": 123
@@ -91,10 +91,10 @@
             "archived": false,
             "id": 39487546,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T15:49:48Z",
+            "last_commit": "2026-08-20T16:43:25Z",
             "owner": "element-hq",
             "repo": "element-web",
-            "stars": 13388
+            "stars": 13391
           }
         },
         {
@@ -106,10 +106,10 @@
             "archived": false,
             "id": 665942673,
             "language": "Dart",
-            "last_commit": "2026-08-19T13:48:32Z",
+            "last_commit": "2026-08-20T16:53:00Z",
             "owner": "krille-chan",
             "repo": "fluffychat",
-            "stars": 3060
+            "stars": 3061
           }
         },
         {
@@ -208,10 +208,10 @@
             "archived": false,
             "id": 242174446,
             "language": "Rust",
-            "last_commit": "2026-08-19T16:40:47Z",
+            "last_commit": "2026-08-20T14:53:29Z",
             "owner": "matrix-org",
             "repo": "matrix-rust-sdk",
-            "stars": 2246
+            "stars": 2247
           }
         },
         {
@@ -366,7 +366,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T16:52:31.250Z",
+    "last_updated": "2026-08-20T16:57:11.099Z",
     "original_repository": "jryans/awesome-matrix",
     "original_repository_id": 380640530,
     "original_repository_sha": "f606190adce84d05e69728baf4dcb8436629a363",
