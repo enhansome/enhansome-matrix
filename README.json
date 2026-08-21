@@ -91,10 +91,10 @@
             "archived": false,
             "id": 39487546,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T16:43:25Z",
+            "last_commit": "2026-08-21T16:20:00Z",
             "owner": "element-hq",
             "repo": "element-web",
-            "stars": 13391
+            "stars": 13397
           }
         },
         {
@@ -106,10 +106,10 @@
             "archived": false,
             "id": 665942673,
             "language": "Dart",
-            "last_commit": "2026-08-20T16:53:00Z",
+            "last_commit": "2026-08-21T12:52:27Z",
             "owner": "krille-chan",
             "repo": "fluffychat",
-            "stars": 3061
+            "stars": 3063
           }
         },
         {
@@ -145,7 +145,7 @@
             "last_commit": "2024-03-27T13:23:53Z",
             "owner": "YousefED",
             "repo": "Matrix-CRDT",
-            "stars": 785
+            "stars": 784
           }
         },
         {
@@ -208,10 +208,10 @@
             "archived": false,
             "id": 242174446,
             "language": "Rust",
-            "last_commit": "2026-08-20T14:53:29Z",
+            "last_commit": "2026-08-21T16:50:32Z",
             "owner": "matrix-org",
             "repo": "matrix-rust-sdk",
-            "stars": 2247
+            "stars": 2248
           }
         },
         {
@@ -277,7 +277,7 @@
             "last_commit": "2024-04-26T15:47:23Z",
             "owner": "matrix-org",
             "repo": "synapse",
-            "stars": 12101
+            "stars": 12100
           }
         },
         {
@@ -366,7 +366,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T16:57:11.099Z",
+    "last_updated": "2026-08-21T16:57:03.556Z",
     "original_repository": "jryans/awesome-matrix",
     "original_repository_id": 380640530,
     "original_repository_sha": "f606190adce84d05e69728baf4dcb8436629a363",
