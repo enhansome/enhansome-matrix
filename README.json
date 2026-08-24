@@ -91,10 +91,10 @@
             "archived": false,
             "id": 39487546,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T16:20:00Z",
+            "last_commit": "2026-08-24T13:33:59Z",
             "owner": "element-hq",
             "repo": "element-web",
-            "stars": 13400
+            "stars": 13407
           }
         },
         {
@@ -106,10 +106,10 @@
             "archived": false,
             "id": 665942673,
             "language": "Dart",
-            "last_commit": "2026-08-23T12:01:42Z",
+            "last_commit": "2026-08-24T14:28:41Z",
             "owner": "krille-chan",
             "repo": "fluffychat",
-            "stars": 3071
+            "stars": 3074
           }
         },
         {
@@ -201,6 +201,90 @@
       "items": [
         {
           "node_type": "item",
+          "title": "ODIN",
+          "description": "Command and Control Information System (C2IS) built on Open Layers, React, and Electron. Uses Matrix in order to replicate the state of the symbols (MIL-STD-2525C) drawn on the map. ODIN is an offline-first application and uses LevelDB to persist state locally. At the lowest level LevelDB operations are replicated. (Repo, Chat)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 570498990,
+            "language": "JavaScript",
+            "last_commit": "2026-07-06T19:08:02Z",
+            "owner": "syncpoint",
+            "repo": "ODINv2",
+            "stars": 85
+          }
+        }
+      ],
+      "title": "Collaborative Maps"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pantalaimon",
+          "description": "E2EE aware proxy daemon for Matrix clients. (Chat)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 177604275,
+            "language": "Python",
+            "last_commit": "2025-06-04T01:05:48Z",
+            "owner": "matrix-org",
+            "repo": "pantalaimon",
+            "stars": 330
+          }
+        }
+      ],
+      "title": "Encryption"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Matrix Limits",
+          "description": "A collection of various limits and related factoids about the Matrix specification and implementations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 382387366,
+            "language": null,
+            "last_commit": "2021-07-02T15:59:06Z",
+            "owner": "jryans",
+            "repo": "matrix-limits",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "Factoids"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LocalModeration for Matrix",
+          "description": "A CLI tool for bulk message deletion, media cleanup, and sticker purge in public Matrix rooms. (PyPI)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1178412621,
+            "language": "Python",
+            "last_commit": "2026-07-28T16:53:42Z",
+            "owner": "berkaygediz",
+            "repo": "LocalModerationMatrix",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Moderation"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "matrix-rust-sdk",
           "description": "A modular SDK for writing Matrix clients, written in Rust. Implements Matrix E2EE in a separate crate with a sans I/O design.",
           "children": [],
@@ -208,10 +292,10 @@
             "archived": false,
             "id": 242174446,
             "language": "Rust",
-            "last_commit": "2026-08-23T15:52:06Z",
+            "last_commit": "2026-08-24T13:52:13Z",
             "owner": "matrix-org",
             "repo": "matrix-rust-sdk",
-            "stars": 2254
+            "stars": 2253
           }
         },
         {
@@ -277,7 +361,7 @@
             "last_commit": "2024-04-26T15:47:23Z",
             "owner": "matrix-org",
             "repo": "synapse",
-            "stars": 12102
+            "stars": 12103
           }
         },
         {
@@ -366,7 +450,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T16:47:29.785Z",
+    "last_updated": "2026-08-24T14:31:30.327Z",
     "original_repository": "jryans/awesome-matrix",
     "original_repository_id": 380640530,
     "original_repository_sha": "f606190adce84d05e69728baf4dcb8436629a363",
