@@ -76,11 +76,11 @@ For a comprehensive list with many more clients along with screenshots, the
 [Matrix clients table](https://matrix.org/clients/) is a good resource.
 
 * [Element](https://element.io) - A glossy client with an emphasis on
-  performance and usability. ([Web](https://github.com/vector-im/element-web) ⭐ 13,407 | 🐛 3,823 | 🌐 TypeScript | 📅 2026-08-24,
+  performance and usability. ([Web](https://github.com/vector-im/element-web) ⭐ 13,407 | 🐛 3,824 | 🌐 TypeScript | 📅 2026-08-24,
   [iOS](https://github.com/vector-im/element-ios) ⭐ 1,840 | 🐛 1,759 | 🌐 Swift | 📅 2026-06-23,
-  [Android](https://github.com/vector-im/element-android) ⭐ 3,720 | 🐛 2,209 | 🌐 Kotlin | 📅 2026-08-21) `Apache-2.0`
+  [Android](https://github.com/vector-im/element-android) ⭐ 3,721 | 🐛 2,210 | 🌐 Kotlin | 📅 2026-08-21) `Apache-2.0`
   `TypeScript`, `Swift`, `Kotlin`
-* [FluffyChat](https://github.com/krille-chan/fluffychat) ⭐ 3,074 | 🐛 551 | 🌐 Dart | 📅 2026-08-24 - Cute instant messaging
+* [FluffyChat](https://github.com/krille-chan/fluffychat) ⭐ 3,073 | 🐛 552 | 🌐 Dart | 📅 2026-08-24 - Cute instant messaging
   app for all platforms. ([Chat](https://matrix.to/#/#fluffychat:matrix.org))
   `AGPL-3.0` `Flutter`
 * [Safesupport chatbox](https://github.com/nomadic-labs/safesupport-chatbox) ⭐ 75 | 🐛 28 | 🌐 JavaScript | 📅 2023-01-05 -
@@ -195,7 +195,7 @@ Research papers and similar documents studying something related to Matrix.
 
 ## SDKs
 
-* [matrix-rust-sdk](https://github.com/matrix-org/matrix-rust-sdk) ⭐ 2,253 | 🐛 312 | 🌐 Rust | 📅 2026-08-24 - A modular
+* [matrix-rust-sdk](https://github.com/matrix-org/matrix-rust-sdk) ⭐ 2,253 | 🐛 317 | 🌐 Rust | 📅 2026-08-24 - A modular
   SDK for writing Matrix clients, written in Rust. Implements Matrix E2EE in
   a separate crate with a [sans I/O](https://sans-io.readthedocs.io/) design.
   `Apache-2.0` `Rust`
