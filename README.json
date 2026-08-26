@@ -53,7 +53,7 @@
                 "last_commit": "2026-07-09T08:44:30Z",
                 "owner": "maubot",
                 "repo": "maubot",
-                "stars": 893
+                "stars": 892
               }
             },
             {
@@ -91,10 +91,10 @@
             "archived": false,
             "id": 39487546,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T16:46:30Z",
+            "last_commit": "2026-08-26T17:04:37Z",
             "owner": "element-hq",
             "repo": "element-web",
-            "stars": 13407
+            "stars": 13406
           }
         },
         {
@@ -106,10 +106,10 @@
             "archived": false,
             "id": 665942673,
             "language": "Dart",
-            "last_commit": "2026-08-25T16:51:28Z",
+            "last_commit": "2026-08-26T14:41:25Z",
             "owner": "krille-chan",
             "repo": "fluffychat",
-            "stars": 3075
+            "stars": 3077
           }
         },
         {
@@ -211,7 +211,7 @@
             "last_commit": "2026-07-06T19:08:02Z",
             "owner": "syncpoint",
             "repo": "ODINv2",
-            "stars": 85
+            "stars": 86
           }
         }
       ],
@@ -292,10 +292,10 @@
             "archived": false,
             "id": 242174446,
             "language": "Rust",
-            "last_commit": "2026-08-25T15:59:36Z",
+            "last_commit": "2026-08-26T12:57:41Z",
             "owner": "matrix-org",
             "repo": "matrix-rust-sdk",
-            "stars": 2255
+            "stars": 2257
           }
         },
         {
@@ -361,7 +361,7 @@
             "last_commit": "2024-04-26T15:47:23Z",
             "owner": "matrix-org",
             "repo": "synapse",
-            "stars": 12102
+            "stars": 12103
           }
         },
         {
@@ -376,7 +376,7 @@
             "last_commit": "2024-11-25T10:18:03Z",
             "owner": "matrix-org",
             "repo": "dendrite",
-            "stars": 5629
+            "stars": 5630
           }
         },
         {
@@ -409,7 +409,7 @@
             "archived": false,
             "id": 292927372,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T10:18:08Z",
+            "last_commit": "2026-08-26T13:45:03Z",
             "owner": "matrix-org",
             "repo": "matrix-widget-api",
             "stars": 95
@@ -450,7 +450,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T17:01:44.657Z",
+    "last_updated": "2026-08-26T18:08:37.511Z",
     "original_repository": "jryans/awesome-matrix",
     "original_repository_id": 380640530,
     "original_repository_sha": "f606190adce84d05e69728baf4dcb8436629a363",
