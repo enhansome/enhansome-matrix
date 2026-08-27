@@ -91,10 +91,10 @@
             "archived": false,
             "id": 39487546,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T17:04:37Z",
+            "last_commit": "2026-08-27T11:39:58Z",
             "owner": "element-hq",
             "repo": "element-web",
-            "stars": 13406
+            "stars": 13408
           }
         },
         {
@@ -106,10 +106,10 @@
             "archived": false,
             "id": 665942673,
             "language": "Dart",
-            "last_commit": "2026-08-26T14:41:25Z",
+            "last_commit": "2026-08-27T08:58:25Z",
             "owner": "krille-chan",
             "repo": "fluffychat",
-            "stars": 3077
+            "stars": 3082
           }
         },
         {
@@ -175,7 +175,7 @@
             "last_commit": "2025-03-25T14:49:38Z",
             "owner": "composablesys",
             "repo": "collabs",
-            "stars": 287
+            "stars": 288
           }
         },
         {
@@ -292,10 +292,10 @@
             "archived": false,
             "id": 242174446,
             "language": "Rust",
-            "last_commit": "2026-08-26T12:57:41Z",
+            "last_commit": "2026-08-27T11:20:30Z",
             "owner": "matrix-org",
             "repo": "matrix-rust-sdk",
-            "stars": 2257
+            "stars": 2261
           }
         },
         {
@@ -450,9 +450,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T18:08:37.511Z",
-    "original_repository": "jryans/awesome-matrix",
-    "original_repository_id": 380640530,
+    "last_updated": "2026-08-27T11:49:32.908Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 380640530,
+      "language": null,
+      "last_commit": "2026-08-04T07:55:57Z",
+      "owner": "jryans",
+      "repo": "awesome-matrix",
+      "stars": 205
+    },
     "original_repository_sha": "f606190adce84d05e69728baf4dcb8436629a363",
     "enhanced_repository": "enhansome/enhansome-matrix",
     "enhanced_repository_description": null,
