@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A decentralized and federated way of annotating the web based on Matrix.",
+            "homepage": null,
             "id": 438403031,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2023-04-23T03:38:44Z",
+            "open_issues": 23,
             "owner": "DanilaFe",
             "repo": "matrix-highlight",
-            "stars": 146
+            "stars": 146,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:36:07.133Z"
         },
@@ -26,12 +31,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Social Annotation Tool Powered by Matrix",
+            "homepage": "https://lottec-ufpb.github.io/populus-viewer/",
             "id": 350363258,
             "language": "JavaScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-23T13:11:31Z",
+            "open_issues": 40,
             "owner": "lottec-ufpb",
             "repo": "populus-viewer",
-            "stars": 123
+            "stars": 123,
+            "topics": [
+              "education",
+              "matrix",
+              "pdfjs",
+              "social-annotation"
+            ]
           },
           "first_seen": "2026-08-29T00:36:07.133Z"
         }
@@ -50,12 +65,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A plugin-based Matrix bot system.",
+                "homepage": "https://mau.bot",
                 "id": 136799312,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-07-09T08:44:30Z",
+                "open_issues": 83,
                 "owner": "maubot",
                 "repo": "maubot",
-                "stars": 893
+                "stars": 893,
+                "topics": [
+                  "asyncio",
+                  "chatbot",
+                  "matrix",
+                  "matrix-org",
+                  "maubot",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-29T00:36:07.133Z"
             },
@@ -66,12 +93,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🤖 An open source chat-ops bot framework",
+                "homepage": "https://opsdroid.dev",
                 "id": 64034523,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-05T08:46:46Z",
+                "open_issues": 109,
                 "owner": "opsdroid",
                 "repo": "opsdroid",
-                "stars": 869
+                "stars": 869,
+                "topics": [
+                  "asyncio",
+                  "bot-framework",
+                  "botkit",
+                  "chatops",
+                  "devops",
+                  "github-bot-framework",
+                  "gitter-bot-framework",
+                  "matrix-bot-framework",
+                  "messenger-bot-framework",
+                  "nlu",
+                  "opsdroid",
+                  "python3",
+                  "slack-bot-framework",
+                  "teams-bot-framework",
+                  "telegram-bot-framework",
+                  "webex-teams-bot-framework"
+                ]
               },
               "first_seen": "2026-08-29T00:36:07.133Z"
             }
@@ -93,12 +142,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A glossy Matrix collaboration client for the web.",
+            "homepage": "https://element.io",
             "id": 39487546,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-28T18:05:31Z",
+            "open_issues": 3815,
             "owner": "element-hq",
             "repo": "element-web",
-            "stars": 13407
+            "stars": 13408,
+            "topics": [
+              "hacktoberfest",
+              "matrix"
+            ]
           },
           "first_seen": "2026-08-29T00:36:07.133Z"
         },
@@ -109,12 +166,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The cutest instant messenger in the [matrix]",
+            "homepage": "https://fluffychat.im/",
             "id": 665942673,
             "language": "Dart",
-            "last_commit": "2026-08-28T21:35:47Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-29T04:01:52Z",
+            "open_issues": 568,
             "owner": "krille-chan",
             "repo": "fluffychat",
-            "stars": 3086
+            "stars": 3086,
+            "topics": [
+              "app",
+              "dart",
+              "flutter",
+              "matrix"
+            ]
           },
           "first_seen": "2026-08-29T00:36:07.133Z"
         },
@@ -125,12 +192,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An embeddable chatbox built on Matrix",
+            "homepage": null,
             "id": 237651372,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-01-05T11:17:38Z",
+            "open_issues": 28,
             "owner": "dreamside-digital",
             "repo": "safesupport-chatbox",
-            "stars": 75
+            "stars": 75,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:36:07.133Z"
         }
@@ -147,12 +219,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Use Matrix as a backend for local-first applications with the Matrix-CRDT Yjs provider.",
+            "homepage": null,
             "id": 443814373,
             "language": "TypeScript",
+            "license": "MPL-2.0",
             "last_commit": "2024-03-27T13:23:53Z",
+            "open_issues": 8,
             "owner": "YousefED",
             "repo": "Matrix-CRDT",
-            "stars": 784
+            "stars": 784,
+            "topics": [
+              "collaborative-editing",
+              "crdt",
+              "local-first",
+              "matrix",
+              "messaging",
+              "real-time",
+              "sync",
+              "yjs"
+            ]
           },
           "first_seen": "2026-08-29T00:36:07.133Z"
         },
@@ -163,12 +249,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collaborative Whiteboard powered by the [matrix] protocol and infrastucture.",
+            "homepage": null,
             "id": 384575118,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-01-13T17:36:38Z",
+            "open_issues": 18,
             "owner": "toger5",
             "repo": "TheBoard",
-            "stars": 411
+            "stars": 411,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:36:07.133Z"
         },
@@ -179,12 +270,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collabs library monorepo",
+            "homepage": "https://collabs.readthedocs.io/",
             "id": 274479520,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2025-03-25T14:49:38Z",
+            "open_issues": 15,
             "owner": "composablesys",
             "repo": "collabs",
-            "stars": 288
+            "stars": 288,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:36:07.133Z"
         },
@@ -195,12 +291,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A buggy way to collaborate on text documents using the Matrix protocol. When it works, consider this the Matrix Console of collaboration!",
+            "homepage": "https://matrix-notepad.kb1rd.net/",
             "id": 217521189,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2023-01-07T12:02:59Z",
+            "open_issues": 37,
             "owner": "KB1RD",
             "repo": "matrix-notepad",
-            "stars": 70
+            "stars": 70,
+            "topics": [
+              "anchor-logoot",
+              "collaboration",
+              "federated",
+              "logoot",
+              "logoot-algorithm",
+              "matrix",
+              "matrix-collaboration",
+              "matrix-org"
+            ]
           },
           "first_seen": "2026-08-29T00:36:07.133Z"
         }
@@ -217,12 +327,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Source Command and Control Information System (C2IS)",
+            "homepage": "https://odin.syncpoint.io",
             "id": 570498990,
             "language": "JavaScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-07-06T19:08:02Z",
+            "open_issues": 20,
             "owner": "syncpoint",
             "repo": "ODINv2",
-            "stars": 86
+            "stars": 86,
+            "topics": [
+              "mil-std-2525"
+            ]
           },
           "first_seen": "2026-08-29T00:36:07.133Z"
         }
@@ -239,12 +356,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "E2EE aware proxy daemon for matrix clients.",
+            "homepage": null,
             "id": 177604275,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-06-04T01:05:48Z",
+            "open_issues": 56,
             "owner": "matrix-org",
             "repo": "pantalaimon",
-            "stars": 330
+            "stars": 330,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-29T00:36:07.133Z"
         }
@@ -261,12 +385,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of various limits and related factoids about the Matrix specification and implementations.",
+            "homepage": null,
             "id": 382387366,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2021-07-02T15:59:06Z",
+            "open_issues": 0,
             "owner": "jryans",
             "repo": "matrix-limits",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "client",
+              "limits",
+              "matrix",
+              "server",
+              "spec"
+            ]
           },
           "first_seen": "2026-08-29T00:36:07.133Z"
         }
@@ -283,12 +418,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A CLI tool for bulk message deletion, media cleanup, and sticker purge in Matrix rooms.",
+            "homepage": "https://pypi.org/project/localmoderationmatrix/",
             "id": 1178412621,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-28T16:53:42Z",
+            "open_issues": 0,
             "owner": "berkaygediz",
             "repo": "LocalModerationMatrix",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "bulk-delete",
+              "cinny",
+              "cli",
+              "e2ee",
+              "element",
+              "matrix",
+              "matrix-nio",
+              "matrix-org",
+              "matrix-room",
+              "matrix-rooms",
+              "moderation",
+              "neochat",
+              "nheko",
+              "open-source",
+              "schildichat"
+            ]
           },
           "first_seen": "2026-08-29T00:36:07.133Z"
         }
@@ -305,12 +461,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Matrix Client-Server SDK for Rust",
+            "homepage": null,
             "id": 242174446,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T12:57:38Z",
+            "open_issues": 317,
             "owner": "matrix-org",
             "repo": "matrix-rust-sdk",
-            "stars": 2263
+            "stars": 2263,
+            "topics": [
+              "matrix-org",
+              "rust",
+              "sdk"
+            ]
           },
           "first_seen": "2026-08-29T00:36:07.133Z"
         },
@@ -321,12 +486,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple, developer-friendly library to create Matrix bots.",
+            "homepage": "http://matrixpy.codesociety.xyz/",
             "id": 989816686,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-04T14:36:54Z",
+            "open_issues": 25,
             "owner": "Code-Society-Lab",
             "repo": "matrixpy",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "bot",
+              "matrix",
+              "matrix-bot",
+              "matrix-org",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T00:36:07.133Z"
         },
@@ -337,12 +513,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Lightweight Matrix Typescript Library",
+            "homepage": null,
             "id": 397749031,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-02-10T14:07:42Z",
+            "open_issues": 2,
             "owner": "heusalagroup",
             "repo": "fi.hg.matrix",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:36:07.133Z"
         },
@@ -353,12 +534,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 574136309,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-05-21T16:03:04Z",
+            "open_issues": 1,
             "owner": "syncpoint",
             "repo": "matrix-client-api",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:36:07.133Z"
         }
@@ -375,12 +561,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Synapse: Matrix homeserver written in Python/Twisted.",
+            "homepage": "https://matrix-org.github.io/synapse",
             "id": 22844864,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-04-26T15:47:23Z",
+            "open_issues": 1522,
             "owner": "matrix-org",
             "repo": "synapse",
-            "stars": 12104
+            "stars": 12104,
+            "topics": [
+              "matrix-org",
+              "python"
+            ]
           },
           "first_seen": "2026-08-29T00:36:07.133Z"
         },
@@ -391,12 +585,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Dendrite is a second-generation Matrix homeserver written in Go!",
+            "homepage": "https://matrix-org.github.io/dendrite/",
             "id": 79585104,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2024-11-25T10:18:03Z",
+            "open_issues": 228,
             "owner": "matrix-org",
             "repo": "dendrite",
-            "stars": 5630
+            "stars": 5630,
+            "topics": [
+              "dendrite",
+              "golang",
+              "hacktoberfest",
+              "matrix",
+              "matrix-homeserver",
+              "matrix-org"
+            ]
           },
           "first_seen": "2026-08-29T00:36:07.133Z"
         },
@@ -407,12 +613,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Minimal Matrix HomeServer written in TypeScript",
+            "homepage": null,
             "id": 484830590,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-08-12T12:59:23Z",
+            "open_issues": 32,
             "owner": "heusalagroup",
             "repo": "hghs",
-            "stars": 39
+            "stars": 39,
+            "topics": [
+              "matrix",
+              "matrix-homeserver",
+              "nodejs-server",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-29T00:36:07.133Z"
         }
@@ -429,12 +645,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JavaScript/TypeScript API for widgets & web clients to communicate",
+            "homepage": null,
             "id": 292927372,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T13:45:03Z",
+            "open_issues": 37,
             "owner": "matrix-org",
             "repo": "matrix-widget-api",
-            "stars": 95
+            "stars": 95,
+            "topics": [
+              "hacktoberfest",
+              "matrix",
+              "matrix-widget-api",
+              "widgets"
+            ]
           },
           "first_seen": "2026-08-29T00:36:07.133Z"
         },
@@ -445,12 +671,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple Lua/Rust games available on web and more",
+            "homepage": "https://alexbarry.github.io/AlexGames/",
             "id": 776650518,
             "language": "Lua",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-03T14:45:21Z",
+            "open_issues": 3,
             "owner": "alexbarry",
             "repo": "AlexGames",
-            "stars": 44
+            "stars": 44,
+            "topics": [
+              "android",
+              "backgammon",
+              "board-game",
+              "chess",
+              "game",
+              "lua",
+              "minesweeper",
+              "puzzle-game",
+              "rust",
+              "rust-lang",
+              "solitaire",
+              "wasm",
+              "web",
+              "webassembly",
+              "websocket",
+              "wxwidgets"
+            ]
           },
           "first_seen": "2026-08-29T00:36:07.133Z"
         },
@@ -461,12 +709,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Matrix widget to debug widget interactions on a widget-supporting client through widgets.",
+            "homepage": null,
             "id": 328817826,
             "language": "HTML",
+            "license": "Apache-2.0",
             "last_commit": "2021-08-25T23:45:59Z",
+            "open_issues": 0,
             "owner": "turt2live",
             "repo": "matrix-widget-debug",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:36:07.133Z"
         }
@@ -475,15 +728,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:36:07.133Z",
+    "last_updated": "2026-08-29T04:51:46.774Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of things related to the Matrix ecosystem, including software, research, etc.",
+      "homepage": null,
       "id": 380640530,
       "language": null,
+      "license": "NOASSERTION",
       "last_commit": "2026-08-04T07:55:57Z",
+      "open_issues": 1,
       "owner": "jryans",
       "repo": "awesome-matrix",
-      "stars": 205
+      "stars": 205,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "decentralized",
+        "matrix"
+      ]
     },
     "original_repository_sha": "f606190adce84d05e69728baf4dcb8436629a363",
     "enhanced_repository": "enhansome/enhansome-matrix",

@@ -76,11 +76,11 @@ For a comprehensive list with many more clients along with screenshots, the
 [Matrix clients table](https://matrix.org/clients/) is a good resource.
 
 * [Element](https://element.io) - A glossy client with an emphasis on
-  performance and usability. ([Web](https://github.com/vector-im/element-web) ⭐ 13,407 | 🐛 3,815 | 🌐 TypeScript | 📅 2026-08-28,
+  performance and usability. ([Web](https://github.com/vector-im/element-web) ⭐ 13,408 | 🐛 3,815 | 🌐 TypeScript | 📅 2026-08-28,
   [iOS](https://github.com/vector-im/element-ios) ⭐ 1,840 | 🐛 1,759 | 🌐 Swift | 📅 2026-06-23,
   [Android](https://github.com/vector-im/element-android) ⭐ 3,721 | 🐛 2,210 | 🌐 Kotlin | 📅 2026-08-21) `Apache-2.0`
   `TypeScript`, `Swift`, `Kotlin`
-* [FluffyChat](https://github.com/krille-chan/fluffychat) ⭐ 3,086 | 🐛 567 | 🌐 Dart | 📅 2026-08-28 - Cute instant messaging
+* [FluffyChat](https://github.com/krille-chan/fluffychat) ⭐ 3,086 | 🐛 568 | 🌐 Dart | 📅 2026-08-29 - Cute instant messaging
   app for all platforms. ([Chat](https://matrix.to/#/#fluffychat:matrix.org))
   `AGPL-3.0` `Flutter`
 * [Safesupport chatbox](https://github.com/nomadic-labs/safesupport-chatbox) ⭐ 75 | 🐛 28 | 🌐 JavaScript | 📅 2023-01-05 -
