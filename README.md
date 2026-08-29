@@ -56,11 +56,11 @@ obvious category to fit into on the matrix.org website.
 ### Multi Purpose Bot Platforms
 
 * [maubot](https://maubot.xyz) - A plugin-based Matrix bot system with over 30
-  plugins for all sorts of things. ([Repo](https://github.com/maubot/maubot) ⭐ 892 | 🐛 83 | 🌐 Python | 📅 2026-07-09,
+  plugins for all sorts of things. ([Repo](https://github.com/maubot/maubot) ⭐ 893 | 🐛 83 | 🌐 Python | 📅 2026-07-09,
   [Chat](https://matrix.to/#/#maubot:maunium.net)) `AGPL-3.0` `Python`
 * [opsdroid](https://opsdroid.dev/) - A flexible multi-platform chat bot
   framework with Matrix support including end to end encryption.
-  ([Repo](https://github.com/opsdroid/opsdroid) ⭐ 868 | 🐛 109 | 🌐 Python | 📅 2026-05-05,
+  ([Repo](https://github.com/opsdroid/opsdroid) ⭐ 869 | 🐛 109 | 🌐 Python | 📅 2026-05-05,
   [Chat](https://matrix.to/#/#opsdroid-general:matrix.org)) `Apache-2.0`
   `Python`
 
@@ -76,11 +76,11 @@ For a comprehensive list with many more clients along with screenshots, the
 [Matrix clients table](https://matrix.org/clients/) is a good resource.
 
 * [Element](https://element.io) - A glossy client with an emphasis on
-  performance and usability. ([Web](https://github.com/vector-im/element-web) ⭐ 13,407 | 🐛 3,816 | 🌐 TypeScript | 📅 2026-08-27,
+  performance and usability. ([Web](https://github.com/vector-im/element-web) ⭐ 13,407 | 🐛 3,815 | 🌐 TypeScript | 📅 2026-08-28,
   [iOS](https://github.com/vector-im/element-ios) ⭐ 1,840 | 🐛 1,759 | 🌐 Swift | 📅 2026-06-23,
   [Android](https://github.com/vector-im/element-android) ⭐ 3,721 | 🐛 2,210 | 🌐 Kotlin | 📅 2026-08-21) `Apache-2.0`
   `TypeScript`, `Swift`, `Kotlin`
-* [FluffyChat](https://github.com/krille-chan/fluffychat) ⭐ 3,082 | 🐛 563 | 🌐 Dart | 📅 2026-08-27 - Cute instant messaging
+* [FluffyChat](https://github.com/krille-chan/fluffychat) ⭐ 3,086 | 🐛 567 | 🌐 Dart | 📅 2026-08-28 - Cute instant messaging
   app for all platforms. ([Chat](https://matrix.to/#/#fluffychat:matrix.org))
   `AGPL-3.0` `Flutter`
 * [Safesupport chatbox](https://github.com/nomadic-labs/safesupport-chatbox) ⭐ 75 | 🐛 28 | 🌐 JavaScript | 📅 2023-01-05 -
@@ -95,7 +95,7 @@ For a comprehensive list with many more clients along with screenshots, the
 ## Collaborative Documents
 
 * [Matrix CRDT](https://github.com/yousefED/matrix-crdt) ⭐ 784 | 🐛 8 | 🌐 TypeScript | 📅 2024-03-27 - Integrates CRDTs like
-  [Yjs](https://github.com/yjs/yjs) ⭐ 22,713 | 🐛 137 | 🌐 JavaScript | 📅 2026-08-06 with Matrix for storage and sync. `MPL-2.0`
+  [Yjs](https://github.com/yjs/yjs) ⭐ 22,718 | 🐛 138 | 🌐 JavaScript | 📅 2026-08-06 with Matrix for storage and sync. `MPL-2.0`
   `TypeScript`
 * [TheBoard](https://toger5.github.io/TheBoard/) - Collaborative whiteboard
   powered by Matrix. ([Repo](https://github.com/toger5/TheBoard) ⭐ 411 | 🐛 18 | 🌐 JavaScript | 📅 2022-01-13,
@@ -195,7 +195,7 @@ Research papers and similar documents studying something related to Matrix.
 
 ## SDKs
 
-* [matrix-rust-sdk](https://github.com/matrix-org/matrix-rust-sdk) ⭐ 2,262 | 🐛 318 | 🌐 Rust | 📅 2026-08-27 - A modular
+* [matrix-rust-sdk](https://github.com/matrix-org/matrix-rust-sdk) ⭐ 2,263 | 🐛 317 | 🌐 Rust | 📅 2026-08-28 - A modular
   SDK for writing Matrix clients, written in Rust. Implements Matrix E2EE in
   a separate crate with a [sans I/O](https://sans-io.readthedocs.io/) design.
   `Apache-2.0` `Rust`
@@ -279,4 +279,4 @@ Creative Commons Attribution 4.0 International
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._

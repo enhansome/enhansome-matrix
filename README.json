@@ -16,7 +16,8 @@
             "owner": "DanilaFe",
             "repo": "matrix-highlight",
             "stars": 146
-          }
+          },
+          "first_seen": "2026-08-29T00:36:07.133Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "lottec-ufpb",
             "repo": "populus-viewer",
             "stars": 123
-          }
+          },
+          "first_seen": "2026-08-29T00:36:07.133Z"
         }
       ],
       "title": "Annotation"
@@ -53,8 +55,9 @@
                 "last_commit": "2026-07-09T08:44:30Z",
                 "owner": "maubot",
                 "repo": "maubot",
-                "stars": 892
-              }
+                "stars": 893
+              },
+              "first_seen": "2026-08-29T00:36:07.133Z"
             },
             {
               "node_type": "item",
@@ -68,8 +71,9 @@
                 "last_commit": "2026-05-05T08:46:46Z",
                 "owner": "opsdroid",
                 "repo": "opsdroid",
-                "stars": 868
-              }
+                "stars": 869
+              },
+              "first_seen": "2026-08-29T00:36:07.133Z"
             }
           ],
           "description": null,
@@ -91,11 +95,12 @@
             "archived": false,
             "id": 39487546,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T17:46:04Z",
+            "last_commit": "2026-08-28T18:05:31Z",
             "owner": "element-hq",
             "repo": "element-web",
             "stars": 13407
-          }
+          },
+          "first_seen": "2026-08-29T00:36:07.133Z"
         },
         {
           "node_type": "item",
@@ -106,11 +111,12 @@
             "archived": false,
             "id": 665942673,
             "language": "Dart",
-            "last_commit": "2026-08-27T21:36:15Z",
+            "last_commit": "2026-08-28T21:35:47Z",
             "owner": "krille-chan",
             "repo": "fluffychat",
-            "stars": 3082
-          }
+            "stars": 3086
+          },
+          "first_seen": "2026-08-29T00:36:07.133Z"
         },
         {
           "node_type": "item",
@@ -125,7 +131,8 @@
             "owner": "dreamside-digital",
             "repo": "safesupport-chatbox",
             "stars": 75
-          }
+          },
+          "first_seen": "2026-08-29T00:36:07.133Z"
         }
       ],
       "title": "Clients"
@@ -146,7 +153,8 @@
             "owner": "YousefED",
             "repo": "Matrix-CRDT",
             "stars": 784
-          }
+          },
+          "first_seen": "2026-08-29T00:36:07.133Z"
         },
         {
           "node_type": "item",
@@ -161,7 +169,8 @@
             "owner": "toger5",
             "repo": "TheBoard",
             "stars": 411
-          }
+          },
+          "first_seen": "2026-08-29T00:36:07.133Z"
         },
         {
           "node_type": "item",
@@ -176,7 +185,8 @@
             "owner": "composablesys",
             "repo": "collabs",
             "stars": 288
-          }
+          },
+          "first_seen": "2026-08-29T00:36:07.133Z"
         },
         {
           "node_type": "item",
@@ -191,7 +201,8 @@
             "owner": "KB1RD",
             "repo": "matrix-notepad",
             "stars": 70
-          }
+          },
+          "first_seen": "2026-08-29T00:36:07.133Z"
         }
       ],
       "title": "Collaborative Documents"
@@ -212,7 +223,8 @@
             "owner": "syncpoint",
             "repo": "ODINv2",
             "stars": 86
-          }
+          },
+          "first_seen": "2026-08-29T00:36:07.133Z"
         }
       ],
       "title": "Collaborative Maps"
@@ -233,7 +245,8 @@
             "owner": "matrix-org",
             "repo": "pantalaimon",
             "stars": 330
-          }
+          },
+          "first_seen": "2026-08-29T00:36:07.133Z"
         }
       ],
       "title": "Encryption"
@@ -254,7 +267,8 @@
             "owner": "jryans",
             "repo": "matrix-limits",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-29T00:36:07.133Z"
         }
       ],
       "title": "Factoids"
@@ -275,7 +289,8 @@
             "owner": "berkaygediz",
             "repo": "LocalModerationMatrix",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-29T00:36:07.133Z"
         }
       ],
       "title": "Moderation"
@@ -292,11 +307,12 @@
             "archived": false,
             "id": 242174446,
             "language": "Rust",
-            "last_commit": "2026-08-27T21:29:43Z",
+            "last_commit": "2026-08-28T12:57:38Z",
             "owner": "matrix-org",
             "repo": "matrix-rust-sdk",
-            "stars": 2262
-          }
+            "stars": 2263
+          },
+          "first_seen": "2026-08-29T00:36:07.133Z"
         },
         {
           "node_type": "item",
@@ -311,7 +327,8 @@
             "owner": "Code-Society-Lab",
             "repo": "matrixpy",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-29T00:36:07.133Z"
         },
         {
           "node_type": "item",
@@ -326,7 +343,8 @@
             "owner": "heusalagroup",
             "repo": "fi.hg.matrix",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T00:36:07.133Z"
         },
         {
           "node_type": "item",
@@ -341,7 +359,8 @@
             "owner": "syncpoint",
             "repo": "matrix-client-api",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T00:36:07.133Z"
         }
       ],
       "title": "SDKs"
@@ -361,8 +380,9 @@
             "last_commit": "2024-04-26T15:47:23Z",
             "owner": "matrix-org",
             "repo": "synapse",
-            "stars": 12103
-          }
+            "stars": 12104
+          },
+          "first_seen": "2026-08-29T00:36:07.133Z"
         },
         {
           "node_type": "item",
@@ -377,7 +397,8 @@
             "owner": "matrix-org",
             "repo": "dendrite",
             "stars": 5630
-          }
+          },
+          "first_seen": "2026-08-29T00:36:07.133Z"
         },
         {
           "node_type": "item",
@@ -392,7 +413,8 @@
             "owner": "heusalagroup",
             "repo": "hghs",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-29T00:36:07.133Z"
         }
       ],
       "title": "Servers"
@@ -413,7 +435,8 @@
             "owner": "matrix-org",
             "repo": "matrix-widget-api",
             "stars": 95
-          }
+          },
+          "first_seen": "2026-08-29T00:36:07.133Z"
         },
         {
           "node_type": "item",
@@ -428,7 +451,8 @@
             "owner": "alexbarry",
             "repo": "AlexGames",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-29T00:36:07.133Z"
         },
         {
           "node_type": "item",
@@ -443,14 +467,15 @@
             "owner": "turt2live",
             "repo": "matrix-widget-debug",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T00:36:07.133Z"
         }
       ],
       "title": "Widgets"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T01:00:35.128Z",
+    "last_updated": "2026-08-29T00:36:07.133Z",
     "original_repository_info": {
       "archived": false,
       "id": 380640530,
