@@ -148,10 +148,10 @@
             "language": "TypeScript",
             "license": "AGPL-3.0",
             "last_commit": "2026-08-28T18:05:31Z",
-            "open_issues": 3816,
+            "open_issues": 3818,
             "owner": "element-hq",
             "repo": "element-web",
-            "stars": 13409,
+            "stars": 13411,
             "topics": [
               "hacktoberfest",
               "matrix"
@@ -171,11 +171,11 @@
             "id": 665942673,
             "language": "Dart",
             "license": "AGPL-3.0",
-            "last_commit": "2026-08-29T14:02:43Z",
+            "last_commit": "2026-08-30T10:32:54Z",
             "open_issues": 567,
             "owner": "krille-chan",
             "repo": "fluffychat",
-            "stars": 3088,
+            "stars": 3092,
             "topics": [
               "app",
               "dart",
@@ -466,11 +466,11 @@
             "id": 242174446,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T17:32:06Z",
-            "open_issues": 319,
+            "last_commit": "2026-08-30T07:59:32Z",
+            "open_issues": 318,
             "owner": "matrix-org",
             "repo": "matrix-rust-sdk",
-            "stars": 2264,
+            "stars": 2265,
             "topics": [
               "matrix-org",
               "rust",
@@ -728,7 +728,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T19:26:21.910Z",
+    "last_updated": "2026-08-30T19:21:56.590Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of things related to the Matrix ecosystem, including software, research, etc.",
