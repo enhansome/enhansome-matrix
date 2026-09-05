@@ -148,10 +148,10 @@
             "language": "TypeScript",
             "license": "AGPL-3.0",
             "last_commit": "2026-09-04T18:20:21Z",
-            "open_issues": 3790,
+            "open_issues": 3791,
             "owner": "element-hq",
             "repo": "element-web",
-            "stars": 13427,
+            "stars": 13431,
             "topics": [
               "hacktoberfest",
               "matrix"
@@ -171,11 +171,11 @@
             "id": 665942673,
             "language": "Dart",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-04T03:51:16Z",
-            "open_issues": 564,
+            "last_commit": "2026-09-05T15:54:08Z",
+            "open_issues": 562,
             "owner": "krille-chan",
             "repo": "fluffychat",
-            "stars": 3104,
+            "stars": 3105,
             "topics": [
               "app",
               "dart",
@@ -466,11 +466,11 @@
             "id": 242174446,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T17:22:23Z",
-            "open_issues": 319,
+            "last_commit": "2026-09-05T09:08:16Z",
+            "open_issues": 320,
             "owner": "matrix-org",
             "repo": "matrix-rust-sdk",
-            "stars": 2277,
+            "stars": 2278,
             "topics": [
               "matrix-org",
               "rust",
@@ -570,7 +570,7 @@
             "open_issues": 1522,
             "owner": "matrix-org",
             "repo": "synapse",
-            "stars": 12106,
+            "stars": 12107,
             "topics": [
               "matrix-org",
               "python"
@@ -728,7 +728,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T19:01:59.815Z",
+    "last_updated": "2026-09-05T18:25:51.393Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of things related to the Matrix ecosystem, including software, research, etc.",
@@ -740,7 +740,7 @@
       "open_issues": 1,
       "owner": "jryans",
       "repo": "awesome-matrix",
-      "stars": 206,
+      "stars": 207,
       "topics": [
         "awesome",
         "awesome-list",
