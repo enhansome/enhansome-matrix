@@ -74,7 +74,7 @@
                 "open_issues": 84,
                 "owner": "maubot",
                 "repo": "maubot",
-                "stars": 893,
+                "stars": 894,
                 "topics": [
                   "asyncio",
                   "chatbot",
@@ -151,7 +151,7 @@
             "open_issues": 3791,
             "owner": "element-hq",
             "repo": "element-web",
-            "stars": 13431,
+            "stars": 13435,
             "topics": [
               "hacktoberfest",
               "matrix"
@@ -171,11 +171,11 @@
             "id": 665942673,
             "language": "Dart",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-05T15:54:08Z",
-            "open_issues": 562,
+            "last_commit": "2026-09-06T11:07:41Z",
+            "open_issues": 555,
             "owner": "krille-chan",
             "repo": "fluffychat",
-            "stars": 3105,
+            "stars": 3106,
             "topics": [
               "app",
               "dart",
@@ -466,11 +466,11 @@
             "id": 242174446,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-05T09:08:16Z",
+            "last_commit": "2026-09-06T09:39:36Z",
             "open_issues": 320,
             "owner": "matrix-org",
             "repo": "matrix-rust-sdk",
-            "stars": 2278,
+            "stars": 2280,
             "topics": [
               "matrix-org",
               "rust",
@@ -728,7 +728,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T18:25:51.393Z",
+    "last_updated": "2026-09-06T18:25:27.011Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of things related to the Matrix ecosystem, including software, research, etc.",
