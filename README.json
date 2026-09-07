@@ -147,11 +147,11 @@
             "id": 39487546,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-04T18:20:21Z",
-            "open_issues": 3791,
+            "last_commit": "2026-09-07T16:59:56Z",
+            "open_issues": 3776,
             "owner": "element-hq",
             "repo": "element-web",
-            "stars": 13435,
+            "stars": 13439,
             "topics": [
               "hacktoberfest",
               "matrix"
@@ -175,7 +175,7 @@
             "open_issues": 555,
             "owner": "krille-chan",
             "repo": "fluffychat",
-            "stars": 3106,
+            "stars": 3108,
             "topics": [
               "app",
               "dart",
@@ -336,7 +336,7 @@
             "open_issues": 20,
             "owner": "syncpoint",
             "repo": "ODINv2",
-            "stars": 86,
+            "stars": 87,
             "topics": [
               "mil-std-2525"
             ]
@@ -466,11 +466,11 @@
             "id": 242174446,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-06T09:39:36Z",
-            "open_issues": 320,
+            "last_commit": "2026-09-07T17:55:17Z",
+            "open_issues": 318,
             "owner": "matrix-org",
             "repo": "matrix-rust-sdk",
-            "stars": 2280,
+            "stars": 2282,
             "topics": [
               "matrix-org",
               "rust",
@@ -594,7 +594,7 @@
             "open_issues": 228,
             "owner": "matrix-org",
             "repo": "dendrite",
-            "stars": 5627,
+            "stars": 5628,
             "topics": [
               "dendrite",
               "golang",
@@ -728,7 +728,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T18:25:27.011Z",
+    "last_updated": "2026-09-07T20:01:35.222Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of things related to the Matrix ecosystem, including software, research, etc.",
