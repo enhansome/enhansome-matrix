@@ -147,11 +147,11 @@
             "id": 39487546,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-12T01:38:10Z",
-            "open_issues": 3779,
+            "last_commit": "2026-09-14T17:24:54Z",
+            "open_issues": 3781,
             "owner": "element-hq",
             "repo": "element-web",
-            "stars": 13452,
+            "stars": 13453,
             "topics": [
               "hacktoberfest",
               "matrix"
@@ -172,10 +172,10 @@
             "language": "Dart",
             "license": "AGPL-3.0",
             "last_commit": "2026-09-13T04:15:30Z",
-            "open_issues": 557,
+            "open_issues": 555,
             "owner": "krille-chan",
             "repo": "fluffychat",
-            "stars": 3119,
+            "stars": 3123,
             "topics": [
               "app",
               "dart",
@@ -336,7 +336,7 @@
             "open_issues": 20,
             "owner": "syncpoint",
             "repo": "ODINv2",
-            "stars": 87,
+            "stars": 88,
             "topics": [
               "mil-std-2525"
             ]
@@ -466,11 +466,11 @@
             "id": 242174446,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-13T13:38:09Z",
+            "last_commit": "2026-09-14T16:14:20Z",
             "open_issues": 324,
             "owner": "matrix-org",
             "repo": "matrix-rust-sdk",
-            "stars": 2292,
+            "stars": 2293,
             "topics": [
               "matrix-org",
               "rust",
@@ -570,7 +570,7 @@
             "open_issues": 1522,
             "owner": "matrix-org",
             "repo": "synapse",
-            "stars": 12101,
+            "stars": 12100,
             "topics": [
               "matrix-org",
               "python"
@@ -728,7 +728,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T18:50:45.867Z",
+    "last_updated": "2026-09-14T20:21:30.920Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of things related to the Matrix ecosystem, including software, research, etc.",
