@@ -74,7 +74,7 @@
                 "open_issues": 84,
                 "owner": "maubot",
                 "repo": "maubot",
-                "stars": 894,
+                "stars": 895,
                 "topics": [
                   "asyncio",
                   "chatbot",
@@ -147,11 +147,11 @@
             "id": 39487546,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-16T17:47:21Z",
-            "open_issues": 3774,
+            "last_commit": "2026-09-17T17:19:54Z",
+            "open_issues": 3761,
             "owner": "element-hq",
             "repo": "element-web",
-            "stars": 13458,
+            "stars": 13461,
             "topics": [
               "hacktoberfest",
               "matrix"
@@ -171,11 +171,11 @@
             "id": 665942673,
             "language": "Dart",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-16T12:28:07Z",
-            "open_issues": 557,
+            "last_commit": "2026-09-17T06:07:13Z",
+            "open_issues": 559,
             "owner": "krille-chan",
             "repo": "fluffychat",
-            "stars": 3131,
+            "stars": 3132,
             "topics": [
               "app",
               "dart",
@@ -466,11 +466,11 @@
             "id": 242174446,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T17:01:09Z",
-            "open_issues": 320,
+            "last_commit": "2026-09-17T16:51:15Z",
+            "open_issues": 321,
             "owner": "matrix-org",
             "repo": "matrix-rust-sdk",
-            "stars": 2295,
+            "stars": 2296,
             "topics": [
               "matrix-org",
               "rust",
@@ -728,7 +728,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T19:37:00.233Z",
+    "last_updated": "2026-09-17T19:46:16.131Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of things related to the Matrix ecosystem, including software, research, etc.",
