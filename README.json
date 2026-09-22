@@ -147,11 +147,11 @@
             "id": 39487546,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-21T18:38:43Z",
-            "open_issues": 3761,
+            "last_commit": "2026-09-22T17:01:28Z",
+            "open_issues": 3762,
             "owner": "element-hq",
             "repo": "element-web",
-            "stars": 13489,
+            "stars": 13495,
             "topics": [
               "hacktoberfest",
               "matrix"
@@ -171,8 +171,8 @@
             "id": 665942673,
             "language": "Dart",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-20T06:23:30Z",
-            "open_issues": 553,
+            "last_commit": "2026-09-22T16:38:25Z",
+            "open_issues": 554,
             "owner": "krille-chan",
             "repo": "fluffychat",
             "stars": 3141,
@@ -466,11 +466,11 @@
             "id": 242174446,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-21T19:57:23Z",
-            "open_issues": 319,
+            "last_commit": "2026-09-22T14:31:11Z",
+            "open_issues": 318,
             "owner": "matrix-org",
             "repo": "matrix-rust-sdk",
-            "stars": 2304,
+            "stars": 2307,
             "topics": [
               "matrix-org",
               "rust",
@@ -650,7 +650,7 @@
             "id": 292927372,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-19T00:59:53Z",
+            "last_commit": "2026-09-21T21:46:25Z",
             "open_issues": 38,
             "owner": "matrix-org",
             "repo": "matrix-widget-api",
@@ -728,7 +728,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T20:28:35.520Z",
+    "last_updated": "2026-09-22T19:47:28.425Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of things related to the Matrix ecosystem, including software, research, etc.",
