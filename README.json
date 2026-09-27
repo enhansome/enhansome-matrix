@@ -147,11 +147,11 @@
             "id": 39487546,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-26T17:37:49Z",
-            "open_issues": 3707,
+            "last_commit": "2026-09-27T17:06:10Z",
+            "open_issues": 3713,
             "owner": "element-hq",
             "repo": "element-web",
-            "stars": 13511,
+            "stars": 13516,
             "topics": [
               "hacktoberfest",
               "matrix"
@@ -171,11 +171,11 @@
             "id": 665942673,
             "language": "Dart",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-26T18:17:32Z",
-            "open_issues": 558,
+            "last_commit": "2026-09-27T15:08:24Z",
+            "open_issues": 559,
             "owner": "krille-chan",
             "repo": "fluffychat",
-            "stars": 3154,
+            "stars": 3157,
             "topics": [
               "app",
               "dart",
@@ -470,7 +470,7 @@
             "open_issues": 313,
             "owner": "matrix-org",
             "repo": "matrix-rust-sdk",
-            "stars": 2315,
+            "stars": 2316,
             "topics": [
               "matrix-org",
               "rust",
@@ -570,7 +570,7 @@
             "open_issues": 1522,
             "owner": "matrix-org",
             "repo": "synapse",
-            "stars": 12097,
+            "stars": 12096,
             "topics": [
               "matrix-org",
               "python"
@@ -594,7 +594,7 @@
             "open_issues": 228,
             "owner": "matrix-org",
             "repo": "dendrite",
-            "stars": 5625,
+            "stars": 5624,
             "topics": [
               "dendrite",
               "golang",
@@ -728,7 +728,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T19:16:12.341Z",
+    "last_updated": "2026-09-27T19:48:29.300Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of things related to the Matrix ecosystem, including software, research, etc.",
