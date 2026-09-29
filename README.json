@@ -74,7 +74,7 @@
                 "open_issues": 84,
                 "owner": "maubot",
                 "repo": "maubot",
-                "stars": 898,
+                "stars": 899,
                 "topics": [
                   "asyncio",
                   "chatbot",
@@ -147,11 +147,11 @@
             "id": 39487546,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-28T22:00:52Z",
-            "open_issues": 3708,
+            "last_commit": "2026-09-29T20:46:32Z",
+            "open_issues": 3713,
             "owner": "element-hq",
             "repo": "element-web",
-            "stars": 13527,
+            "stars": 13530,
             "topics": [
               "hacktoberfest",
               "matrix"
@@ -171,8 +171,8 @@
             "id": 665942673,
             "language": "Dart",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-28T19:25:38Z",
-            "open_issues": 560,
+            "last_commit": "2026-09-29T17:26:32Z",
+            "open_issues": 557,
             "owner": "krille-chan",
             "repo": "fluffychat",
             "stars": 3158,
@@ -466,8 +466,8 @@
             "id": 242174446,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-28T18:58:34Z",
-            "open_issues": 314,
+            "last_commit": "2026-09-29T16:44:54Z",
+            "open_issues": 320,
             "owner": "matrix-org",
             "repo": "matrix-rust-sdk",
             "stars": 2316,
@@ -570,7 +570,7 @@
             "open_issues": 1522,
             "owner": "matrix-org",
             "repo": "synapse",
-            "stars": 12097,
+            "stars": 12098,
             "topics": [
               "matrix-org",
               "python"
@@ -728,7 +728,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T22:09:43.899Z",
+    "last_updated": "2026-09-29T20:54:58.970Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of things related to the Matrix ecosystem, including software, research, etc.",
