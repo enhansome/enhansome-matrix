@@ -147,11 +147,11 @@
             "id": 39487546,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-06T10:38:57Z",
-            "open_issues": 3717,
+            "last_commit": "2026-10-06T18:48:13Z",
+            "open_issues": 3733,
             "owner": "element-hq",
             "repo": "element-web",
-            "stars": 13544,
+            "stars": 13545,
             "topics": [
               "hacktoberfest",
               "matrix"
@@ -171,11 +171,11 @@
             "id": 665942673,
             "language": "Dart",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-06T10:53:16Z",
-            "open_issues": 569,
+            "last_commit": "2026-10-06T12:00:57Z",
+            "open_issues": 566,
             "owner": "krille-chan",
             "repo": "fluffychat",
-            "stars": 3180,
+            "stars": 3185,
             "topics": [
               "app",
               "dart",
@@ -466,11 +466,11 @@
             "id": 242174446,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T09:34:04Z",
-            "open_issues": 341,
+            "last_commit": "2026-10-06T15:08:41Z",
+            "open_issues": 348,
             "owner": "matrix-org",
             "repo": "matrix-rust-sdk",
-            "stars": 2324,
+            "stars": 2323,
             "topics": [
               "matrix-org",
               "rust",
@@ -594,7 +594,7 @@
             "open_issues": 228,
             "owner": "matrix-org",
             "repo": "dendrite",
-            "stars": 5624,
+            "stars": 5623,
             "topics": [
               "dendrite",
               "golang",
@@ -728,7 +728,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:57:11.815Z",
+    "last_updated": "2026-10-06T21:04:24.302Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of things related to the Matrix ecosystem, including software, research, etc.",
