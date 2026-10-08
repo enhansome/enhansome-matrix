@@ -147,8 +147,8 @@
             "id": 39487546,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-07T18:45:51Z",
-            "open_issues": 3726,
+            "last_commit": "2026-10-08T19:26:26Z",
+            "open_issues": 3723,
             "owner": "element-hq",
             "repo": "element-web",
             "stars": 13546,
@@ -171,11 +171,11 @@
             "id": 665942673,
             "language": "Dart",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-07T05:16:11Z",
+            "last_commit": "2026-10-08T16:29:15Z",
             "open_issues": 568,
             "owner": "krille-chan",
             "repo": "fluffychat",
-            "stars": 3193,
+            "stars": 3198,
             "topics": [
               "app",
               "dart",
@@ -466,8 +466,8 @@
             "id": 242174446,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-07T16:20:20Z",
-            "open_issues": 345,
+            "last_commit": "2026-10-08T14:57:25Z",
+            "open_issues": 340,
             "owner": "matrix-org",
             "repo": "matrix-rust-sdk",
             "stars": 2323,
@@ -570,7 +570,7 @@
             "open_issues": 1522,
             "owner": "matrix-org",
             "repo": "synapse",
-            "stars": 12094,
+            "stars": 12093,
             "topics": [
               "matrix-org",
               "python"
@@ -594,7 +594,7 @@
             "open_issues": 228,
             "owner": "matrix-org",
             "repo": "dendrite",
-            "stars": 5623,
+            "stars": 5622,
             "topics": [
               "dendrite",
               "golang",
@@ -728,7 +728,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T21:23:30.406Z",
+    "last_updated": "2026-10-08T21:24:03.843Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of things related to the Matrix ecosystem, including software, research, etc.",
