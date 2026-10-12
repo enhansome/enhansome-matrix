@@ -74,7 +74,7 @@
                 "open_issues": 84,
                 "owner": "maubot",
                 "repo": "maubot",
-                "stars": 902,
+                "stars": 901,
                 "topics": [
                   "asyncio",
                   "chatbot",
@@ -147,11 +147,11 @@
             "id": 39487546,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-11T12:53:31Z",
-            "open_issues": 3717,
+            "last_commit": "2026-10-12T22:41:47Z",
+            "open_issues": 3728,
             "owner": "element-hq",
             "repo": "element-web",
-            "stars": 13558,
+            "stars": 13561,
             "topics": [
               "hacktoberfest",
               "matrix"
@@ -171,11 +171,11 @@
             "id": 665942673,
             "language": "Dart",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-11T09:27:03Z",
-            "open_issues": 569,
+            "last_commit": "2026-10-12T11:17:06Z",
+            "open_issues": 575,
             "owner": "krille-chan",
             "repo": "fluffychat",
-            "stars": 3204,
+            "stars": 3207,
             "topics": [
               "app",
               "dart",
@@ -466,8 +466,8 @@
             "id": 242174446,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-11T07:19:42Z",
-            "open_issues": 348,
+            "last_commit": "2026-10-12T18:41:54Z",
+            "open_issues": 347,
             "owner": "matrix-org",
             "repo": "matrix-rust-sdk",
             "stars": 2327,
@@ -570,7 +570,7 @@
             "open_issues": 1522,
             "owner": "matrix-org",
             "repo": "synapse",
-            "stars": 12092,
+            "stars": 12091,
             "topics": [
               "matrix-org",
               "python"
@@ -594,7 +594,7 @@
             "open_issues": 228,
             "owner": "matrix-org",
             "repo": "dendrite",
-            "stars": 5622,
+            "stars": 5620,
             "topics": [
               "dendrite",
               "golang",
@@ -651,7 +651,7 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-10-10T09:22:37Z",
-            "open_issues": 37,
+            "open_issues": 36,
             "owner": "matrix-org",
             "repo": "matrix-widget-api",
             "stars": 95,
@@ -728,7 +728,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T20:24:40.615Z",
+    "last_updated": "2026-10-12T23:05:23.958Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of things related to the Matrix ecosystem, including software, research, etc.",
