@@ -71,7 +71,7 @@
                 "language": "Python",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-07-09T08:44:30Z",
-                "open_issues": 84,
+                "open_issues": 85,
                 "owner": "maubot",
                 "repo": "maubot",
                 "stars": 903,
@@ -147,11 +147,11 @@
             "id": 39487546,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-16T19:19:10Z",
-            "open_issues": 3685,
+            "last_commit": "2026-10-17T12:48:57Z",
+            "open_issues": 3688,
             "owner": "element-hq",
             "repo": "element-web",
-            "stars": 13581,
+            "stars": 13585,
             "topics": [
               "hacktoberfest",
               "matrix"
@@ -171,11 +171,11 @@
             "id": 665942673,
             "language": "Dart",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-16T13:03:51Z",
-            "open_issues": 580,
+            "last_commit": "2026-10-17T08:18:33Z",
+            "open_issues": 577,
             "owner": "krille-chan",
             "repo": "fluffychat",
-            "stars": 3213,
+            "stars": 3214,
             "topics": [
               "app",
               "dart",
@@ -567,7 +567,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2024-04-26T15:47:23Z",
-            "open_issues": 1522,
+            "open_issues": 1524,
             "owner": "matrix-org",
             "repo": "synapse",
             "stars": 12090,
@@ -594,7 +594,7 @@
             "open_issues": 228,
             "owner": "matrix-org",
             "repo": "dendrite",
-            "stars": 5619,
+            "stars": 5620,
             "topics": [
               "dendrite",
               "golang",
@@ -728,7 +728,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T19:36:15.017Z",
+    "last_updated": "2026-10-17T18:36:19.935Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of things related to the Matrix ecosystem, including software, research, etc.",
