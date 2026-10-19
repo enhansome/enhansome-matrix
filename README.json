@@ -147,11 +147,11 @@
             "id": 39487546,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-17T12:48:57Z",
-            "open_issues": 3690,
+            "last_commit": "2026-10-19T20:07:59Z",
+            "open_issues": 3698,
             "owner": "element-hq",
             "repo": "element-web",
-            "stars": 13592,
+            "stars": 13598,
             "topics": [
               "hacktoberfest",
               "matrix"
@@ -171,11 +171,11 @@
             "id": 665942673,
             "language": "Dart",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-18T15:25:38Z",
-            "open_issues": 577,
+            "last_commit": "2026-10-19T15:34:53Z",
+            "open_issues": 578,
             "owner": "krille-chan",
             "repo": "fluffychat",
-            "stars": 3213,
+            "stars": 3212,
             "topics": [
               "app",
               "dart",
@@ -466,11 +466,11 @@
             "id": 242174446,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-16T14:00:11Z",
-            "open_issues": 353,
+            "last_commit": "2026-10-19T15:02:16Z",
+            "open_issues": 355,
             "owner": "matrix-org",
             "repo": "matrix-rust-sdk",
-            "stars": 2333,
+            "stars": 2336,
             "topics": [
               "matrix-org",
               "rust",
@@ -570,7 +570,7 @@
             "open_issues": 1524,
             "owner": "matrix-org",
             "repo": "synapse",
-            "stars": 12090,
+            "stars": 12091,
             "topics": [
               "matrix-org",
               "python"
@@ -594,7 +594,7 @@
             "open_issues": 228,
             "owner": "matrix-org",
             "repo": "dendrite",
-            "stars": 5620,
+            "stars": 5621,
             "topics": [
               "dendrite",
               "golang",
@@ -654,7 +654,7 @@
             "open_issues": 39,
             "owner": "matrix-org",
             "repo": "matrix-widget-api",
-            "stars": 95,
+            "stars": 93,
             "topics": [
               "hacktoberfest",
               "matrix",
@@ -728,7 +728,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T18:43:32.673Z",
+    "last_updated": "2026-10-19T21:09:49.546Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of things related to the Matrix ecosystem, including software, research, etc.",
