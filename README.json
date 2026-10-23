@@ -147,11 +147,11 @@
             "id": 39487546,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-22T13:21:22Z",
-            "open_issues": 3696,
+            "last_commit": "2026-10-23T19:49:46Z",
+            "open_issues": 3697,
             "owner": "element-hq",
             "repo": "element-web",
-            "stars": 13605,
+            "stars": 13608,
             "topics": [
               "hacktoberfest",
               "matrix"
@@ -171,8 +171,8 @@
             "id": 665942673,
             "language": "Dart",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-22T19:50:11Z",
-            "open_issues": 591,
+            "last_commit": "2026-10-23T07:18:34Z",
+            "open_issues": 592,
             "owner": "krille-chan",
             "repo": "fluffychat",
             "stars": 3221,
@@ -466,11 +466,11 @@
             "id": 242174446,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-22T16:23:24Z",
-            "open_issues": 360,
+            "last_commit": "2026-10-23T16:39:14Z",
+            "open_issues": 361,
             "owner": "matrix-org",
             "repo": "matrix-rust-sdk",
-            "stars": 2336,
+            "stars": 2337,
             "topics": [
               "matrix-org",
               "rust",
@@ -728,7 +728,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T20:12:54.125Z",
+    "last_updated": "2026-10-23T19:59:26.707Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of things related to the Matrix ecosystem, including software, research, etc.",
@@ -736,11 +736,11 @@
       "id": 380640530,
       "language": null,
       "license": "NOASSERTION",
-      "last_commit": "2026-08-04T07:55:57Z",
-      "open_issues": 2,
+      "last_commit": "2026-10-23T11:42:16Z",
+      "open_issues": 1,
       "owner": "jryans",
       "repo": "awesome-matrix",
-      "stars": 210,
+      "stars": 211,
       "topics": [
         "awesome",
         "awesome-list",
@@ -748,7 +748,7 @@
         "matrix"
       ]
     },
-    "original_repository_sha": "f606190adce84d05e69728baf4dcb8436629a363",
+    "original_repository_sha": "aaeb6ccc9fff2c2ef839720561a367c5cbb7d933",
     "enhanced_repository": "enhansome/enhansome-matrix",
     "enhanced_repository_description": null,
     "title": "Awesome Matrix with stars"

@@ -76,11 +76,11 @@ For a comprehensive list with many more clients along with screenshots, the
 [Matrix clients table](https://matrix.org/clients/) is a good resource.
 
 * [Element](https://element.io) - A glossy client with an emphasis on
-  performance and usability. ([Web](https://github.com/vector-im/element-web) ⭐ 13,605 | 🐛 3,696 | 🌐 TypeScript | 📅 2026-10-22,
+  performance and usability. ([Web](https://github.com/vector-im/element-web) ⭐ 13,608 | 🐛 3,697 | 🌐 TypeScript | 📅 2026-10-23,
   [iOS](https://github.com/vector-im/element-ios) ⭐ 1,843 | 🐛 1,760 | 🌐 Swift | 📅 2026-09-24,
   [Android](https://github.com/vector-im/element-android) ⭐ 3,740 | 🐛 2,214 | 🌐 Kotlin | 📅 2026-09-25) `Apache-2.0`
   `TypeScript`, `Swift`, `Kotlin`
-* [FluffyChat](https://github.com/krille-chan/fluffychat) ⭐ 3,221 | 🐛 591 | 🌐 Dart | 📅 2026-10-22 - Cute instant messaging
+* [FluffyChat](https://github.com/krille-chan/fluffychat) ⭐ 3,221 | 🐛 592 | 🌐 Dart | 📅 2026-10-23 - Cute instant messaging
   app for all platforms. ([Chat](https://matrix.to/#/#fluffychat:matrix.org))
   `AGPL-3.0` `Flutter`
 * [Safesupport chatbox](https://github.com/nomadic-labs/safesupport-chatbox) ⭐ 75 | 🐛 28 | 🌐 JavaScript | 📅 2023-01-05 -
@@ -91,11 +91,16 @@ For a comprehensive list with many more clients along with screenshots, the
 * [Fractal](https://gitlab.gnome.org/GNOME/fractal/) - A client for GNOME
   written in Rust. ([Chat](https://matrix.to/#/#fractal:gnome.org)) `GPL-3.0`
   `Rust`
+* [Sable](https://next.sable.moe/) - A Discord-style client with apps for all
+  major platforms and many quality-of-life features.
+  ([Repo](https://git.sable.moe/SableClient/sable-next),
+  [Chat](https://matrix.to/#/#sable:sable.moe)) `AGPL-3.0-or-later`
+  `TypeScript`, `Rust`, `Svelte`
 
 ## Collaborative Documents
 
 * [Matrix CRDT](https://github.com/yousefED/matrix-crdt) ⭐ 785 | 🐛 8 | 🌐 TypeScript | 📅 2024-03-27 - Integrates CRDTs like
-  [Yjs](https://github.com/yjs/yjs) ⭐ 22,969 | 🐛 149 | 🌐 JavaScript | 📅 2026-10-18 with Matrix for storage and sync. `MPL-2.0`
+  [Yjs](https://github.com/yjs/yjs) ⭐ 22,972 | 🐛 149 | 🌐 JavaScript | 📅 2026-10-23 with Matrix for storage and sync. `MPL-2.0`
   `TypeScript`
 * [TheBoard](https://toger5.github.io/TheBoard/) - Collaborative whiteboard
   powered by Matrix. ([Repo](https://github.com/toger5/TheBoard) ⭐ 412 | 🐛 18 | 🌐 JavaScript | 📅 2022-01-13,
@@ -195,7 +200,7 @@ Research papers and similar documents studying something related to Matrix.
 
 ## SDKs
 
-* [matrix-rust-sdk](https://github.com/matrix-org/matrix-rust-sdk) ⭐ 2,336 | 🐛 360 | 🌐 Rust | 📅 2026-10-22 - A modular
+* [matrix-rust-sdk](https://github.com/matrix-org/matrix-rust-sdk) ⭐ 2,337 | 🐛 361 | 🌐 Rust | 📅 2026-10-23 - A modular
   SDK for writing Matrix clients, written in Rust. Implements Matrix E2EE in
   a separate crate with a [sans I/O](https://sans-io.readthedocs.io/) design.
   `Apache-2.0` `Rust`
@@ -279,4 +284,4 @@ Creative Commons Attribution 4.0 International
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
