@@ -70,7 +70,7 @@
                 "id": 136799312,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-07-09T08:44:30Z",
+                "last_commit": "2026-10-24T16:30:08Z",
                 "open_issues": 85,
                 "owner": "maubot",
                 "repo": "maubot",
@@ -147,11 +147,11 @@
             "id": 39487546,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-23T19:49:46Z",
-            "open_issues": 3697,
+            "last_commit": "2026-10-23T20:27:24Z",
+            "open_issues": 3691,
             "owner": "element-hq",
             "repo": "element-web",
-            "stars": 13608,
+            "stars": 13611,
             "topics": [
               "hacktoberfest",
               "matrix"
@@ -171,11 +171,11 @@
             "id": 665942673,
             "language": "Dart",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-23T07:18:34Z",
-            "open_issues": 592,
+            "last_commit": "2026-10-24T18:08:21Z",
+            "open_issues": 594,
             "owner": "krille-chan",
             "repo": "fluffychat",
-            "stars": 3221,
+            "stars": 3223,
             "topics": [
               "app",
               "dart",
@@ -467,7 +467,7 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-10-23T16:39:14Z",
-            "open_issues": 361,
+            "open_issues": 362,
             "owner": "matrix-org",
             "repo": "matrix-rust-sdk",
             "stars": 2337,
@@ -594,7 +594,7 @@
             "open_issues": 228,
             "owner": "matrix-org",
             "repo": "dendrite",
-            "stars": 5620,
+            "stars": 5619,
             "topics": [
               "dendrite",
               "golang",
@@ -680,7 +680,7 @@
             "open_issues": 3,
             "owner": "alexbarry",
             "repo": "AlexGames",
-            "stars": 45,
+            "stars": 46,
             "topics": [
               "android",
               "backgammon",
@@ -728,7 +728,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T19:59:26.707Z",
+    "last_updated": "2026-10-24T18:51:47.331Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of things related to the Matrix ecosystem, including software, research, etc.",
@@ -740,7 +740,7 @@
       "open_issues": 1,
       "owner": "jryans",
       "repo": "awesome-matrix",
-      "stars": 211,
+      "stars": 212,
       "topics": [
         "awesome",
         "awesome-list",
