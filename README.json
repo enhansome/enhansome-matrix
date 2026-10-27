@@ -71,10 +71,10 @@
                 "language": "Python",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-10-24T16:30:08Z",
-                "open_issues": 85,
+                "open_issues": 86,
                 "owner": "maubot",
                 "repo": "maubot",
-                "stars": 902,
+                "stars": 901,
                 "topics": [
                   "asyncio",
                   "chatbot",
@@ -102,7 +102,7 @@
                 "open_issues": 111,
                 "owner": "opsdroid",
                 "repo": "opsdroid",
-                "stars": 868,
+                "stars": 867,
                 "topics": [
                   "asyncio",
                   "bot-framework",
@@ -147,11 +147,11 @@
             "id": 39487546,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-26T20:48:10Z",
-            "open_issues": 3692,
+            "last_commit": "2026-10-27T18:19:23Z",
+            "open_issues": 3694,
             "owner": "element-hq",
             "repo": "element-web",
-            "stars": 13613,
+            "stars": 13618,
             "topics": [
               "hacktoberfest",
               "matrix"
@@ -171,11 +171,11 @@
             "id": 665942673,
             "language": "Dart",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-26T09:15:53Z",
-            "open_issues": 563,
+            "last_commit": "2026-10-27T04:36:57Z",
+            "open_issues": 566,
             "owner": "krille-chan",
             "repo": "fluffychat",
-            "stars": 3234,
+            "stars": 3242,
             "topics": [
               "app",
               "dart",
@@ -466,11 +466,11 @@
             "id": 242174446,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-26T15:15:32Z",
-            "open_issues": 361,
+            "last_commit": "2026-10-27T16:59:02Z",
+            "open_issues": 348,
             "owner": "matrix-org",
             "repo": "matrix-rust-sdk",
-            "stars": 2340,
+            "stars": 2342,
             "topics": [
               "matrix-org",
               "rust",
@@ -650,7 +650,7 @@
             "id": 292927372,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-22T12:18:52Z",
+            "last_commit": "2026-10-27T00:39:53Z",
             "open_issues": 39,
             "owner": "matrix-org",
             "repo": "matrix-widget-api",
@@ -680,7 +680,7 @@
             "open_issues": 3,
             "owner": "alexbarry",
             "repo": "AlexGames",
-            "stars": 46,
+            "stars": 47,
             "topics": [
               "android",
               "backgammon",
@@ -728,7 +728,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T21:05:55.948Z",
+    "last_updated": "2026-10-27T20:48:22.907Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of things related to the Matrix ecosystem, including software, research, etc.",
