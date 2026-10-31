@@ -147,11 +147,11 @@
             "id": 39487546,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-30T17:20:54Z",
-            "open_issues": 3699,
+            "last_commit": "2026-10-30T21:41:24Z",
+            "open_issues": 3700,
             "owner": "element-hq",
             "repo": "element-web",
-            "stars": 13633,
+            "stars": 13634,
             "topics": [
               "hacktoberfest",
               "matrix"
@@ -171,11 +171,11 @@
             "id": 665942673,
             "language": "Dart",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-30T05:53:08Z",
-            "open_issues": 568,
+            "last_commit": "2026-10-31T04:12:26Z",
+            "open_issues": 573,
             "owner": "krille-chan",
             "repo": "fluffychat",
-            "stars": 3260,
+            "stars": 3262,
             "topics": [
               "app",
               "dart",
@@ -466,11 +466,11 @@
             "id": 242174446,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-30T14:35:12Z",
-            "open_issues": 353,
+            "last_commit": "2026-10-31T19:12:56Z",
+            "open_issues": 356,
             "owner": "matrix-org",
             "repo": "matrix-rust-sdk",
-            "stars": 2345,
+            "stars": 2348,
             "topics": [
               "matrix-org",
               "rust",
@@ -570,7 +570,7 @@
             "open_issues": 1524,
             "owner": "matrix-org",
             "repo": "synapse",
-            "stars": 12091,
+            "stars": 12090,
             "topics": [
               "matrix-org",
               "python"
@@ -594,7 +594,7 @@
             "open_issues": 228,
             "owner": "matrix-org",
             "repo": "dendrite",
-            "stars": 5619,
+            "stars": 5620,
             "topics": [
               "dendrite",
               "golang",
@@ -728,7 +728,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T20:54:32.661Z",
+    "last_updated": "2026-10-31T20:06:46.598Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of things related to the Matrix ecosystem, including software, research, etc.",

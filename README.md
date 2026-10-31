@@ -76,11 +76,11 @@ For a comprehensive list with many more clients along with screenshots, the
 [Matrix clients table](https://matrix.org/clients/) is a good resource.
 
 * [Element](https://element.io) - A glossy client with an emphasis on
-  performance and usability. ([Web](https://github.com/vector-im/element-web) ⭐ 13,633 | 🐛 3,699 | 🌐 TypeScript | 📅 2026-10-30,
+  performance and usability. ([Web](https://github.com/vector-im/element-web) ⭐ 13,634 | 🐛 3,700 | 🌐 TypeScript | 📅 2026-10-30,
   [iOS](https://github.com/vector-im/element-ios) ⭐ 1,842 | 🐛 1,760 | 🌐 Swift | 📅 2026-09-24,
-  [Android](https://github.com/vector-im/element-android) ⭐ 3,741 | 🐛 2,213 | 🌐 Kotlin | 📅 2026-09-25) `Apache-2.0`
+  [Android](https://github.com/vector-im/element-android) ⭐ 3,743 | 🐛 2,213 | 🌐 Kotlin | 📅 2026-09-25) `Apache-2.0`
   `TypeScript`, `Swift`, `Kotlin`
-* [FluffyChat](https://github.com/krille-chan/fluffychat) ⭐ 3,260 | 🐛 568 | 🌐 Dart | 📅 2026-10-30 - Cute instant messaging
+* [FluffyChat](https://github.com/krille-chan/fluffychat) ⭐ 3,262 | 🐛 573 | 🌐 Dart | 📅 2026-10-31 - Cute instant messaging
   app for all platforms. ([Chat](https://matrix.to/#/#fluffychat:matrix.org))
   `AGPL-3.0` `Flutter`
 * [Safesupport chatbox](https://github.com/nomadic-labs/safesupport-chatbox) ⭐ 75 | 🐛 28 | 🌐 JavaScript | 📅 2023-01-05 -
@@ -200,7 +200,7 @@ Research papers and similar documents studying something related to Matrix.
 
 ## SDKs
 
-* [matrix-rust-sdk](https://github.com/matrix-org/matrix-rust-sdk) ⭐ 2,345 | 🐛 353 | 🌐 Rust | 📅 2026-10-30 - A modular
+* [matrix-rust-sdk](https://github.com/matrix-org/matrix-rust-sdk) ⭐ 2,348 | 🐛 356 | 🌐 Rust | 📅 2026-10-31 - A modular
   SDK for writing Matrix clients, written in Rust. Implements Matrix E2EE in
   a separate crate with a [sans I/O](https://sans-io.readthedocs.io/) design.
   `Apache-2.0` `Rust`
@@ -284,4 +284,4 @@ Creative Commons Attribution 4.0 International
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
