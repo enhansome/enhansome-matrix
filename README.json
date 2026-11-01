@@ -148,10 +148,10 @@
             "language": "TypeScript",
             "license": "AGPL-3.0",
             "last_commit": "2026-10-30T21:41:24Z",
-            "open_issues": 3700,
+            "open_issues": 3705,
             "owner": "element-hq",
             "repo": "element-web",
-            "stars": 13634,
+            "stars": 13633,
             "topics": [
               "hacktoberfest",
               "matrix"
@@ -171,11 +171,11 @@
             "id": 665942673,
             "language": "Dart",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-31T04:12:26Z",
+            "last_commit": "2026-11-01T09:01:07Z",
             "open_issues": 573,
             "owner": "krille-chan",
             "repo": "fluffychat",
-            "stars": 3262,
+            "stars": 3263,
             "topics": [
               "app",
               "dart",
@@ -365,7 +365,7 @@
             "open_issues": 56,
             "owner": "matrix-org",
             "repo": "pantalaimon",
-            "stars": 326,
+            "stars": 325,
             "topics": [
               "hacktoberfest"
             ]
@@ -467,10 +467,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-10-31T19:12:56Z",
-            "open_issues": 356,
+            "open_issues": 357,
             "owner": "matrix-org",
             "repo": "matrix-rust-sdk",
-            "stars": 2348,
+            "stars": 2351,
             "topics": [
               "matrix-org",
               "rust",
@@ -491,8 +491,8 @@
             "id": 989816686,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-09T21:00:55Z",
-            "open_issues": 25,
+            "last_commit": "2026-11-01T01:15:07Z",
+            "open_issues": 30,
             "owner": "Code-Society-Lab",
             "repo": "matrixpy",
             "stars": 14,
@@ -570,7 +570,7 @@
             "open_issues": 1524,
             "owner": "matrix-org",
             "repo": "synapse",
-            "stars": 12090,
+            "stars": 12092,
             "topics": [
               "matrix-org",
               "python"
@@ -728,7 +728,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T20:06:46.598Z",
+    "last_updated": "2026-11-01T20:37:55.863Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of things related to the Matrix ecosystem, including software, research, etc.",
