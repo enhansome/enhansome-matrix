@@ -102,7 +102,7 @@
                 "open_issues": 111,
                 "owner": "opsdroid",
                 "repo": "opsdroid",
-                "stars": 867,
+                "stars": 866,
                 "topics": [
                   "asyncio",
                   "bot-framework",
@@ -147,11 +147,11 @@
             "id": 39487546,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-02T20:06:34Z",
-            "open_issues": 3701,
+            "last_commit": "2026-11-03T21:12:21Z",
+            "open_issues": 3700,
             "owner": "element-hq",
             "repo": "element-web",
-            "stars": 13636,
+            "stars": 13638,
             "topics": [
               "hacktoberfest",
               "matrix"
@@ -172,10 +172,10 @@
             "language": "Dart",
             "license": "AGPL-3.0",
             "last_commit": "2026-11-02T21:35:27Z",
-            "open_issues": 575,
+            "open_issues": 578,
             "owner": "krille-chan",
             "repo": "fluffychat",
-            "stars": 3270,
+            "stars": 3271,
             "topics": [
               "app",
               "dart",
@@ -466,8 +466,8 @@
             "id": 242174446,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-02T16:59:09Z",
-            "open_issues": 362,
+            "last_commit": "2026-11-03T16:55:53Z",
+            "open_issues": 360,
             "owner": "matrix-org",
             "repo": "matrix-rust-sdk",
             "stars": 2351,
@@ -570,7 +570,7 @@
             "open_issues": 1524,
             "owner": "matrix-org",
             "repo": "synapse",
-            "stars": 12093,
+            "stars": 12092,
             "topics": [
               "matrix-org",
               "python"
@@ -594,7 +594,7 @@
             "open_issues": 228,
             "owner": "matrix-org",
             "repo": "dendrite",
-            "stars": 5620,
+            "stars": 5618,
             "topics": [
               "dendrite",
               "golang",
@@ -728,7 +728,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T23:37:47.420Z",
+    "last_updated": "2026-11-03T21:51:52.177Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of things related to the Matrix ecosystem, including software, research, etc.",
