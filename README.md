@@ -76,11 +76,11 @@ For a comprehensive list with many more clients along with screenshots, the
 [Matrix clients table](https://matrix.org/clients/) is a good resource.
 
 * [Element](https://element.io) - A glossy client with an emphasis on
-  performance and usability. ([Web](https://github.com/vector-im/element-web) ⭐ 13,638 | 🐛 3,700 | 🌐 TypeScript | 📅 2026-11-03,
+  performance and usability. ([Web](https://github.com/vector-im/element-web) ⭐ 13,643 | 🐛 3,695 | 🌐 TypeScript | 📅 2026-11-04,
   [iOS](https://github.com/vector-im/element-ios) ⭐ 1,843 | 🐛 1,760 | 🌐 Swift | 📅 2026-09-24,
   [Android](https://github.com/vector-im/element-android) ⭐ 3,742 | 🐛 2,213 | 🌐 Kotlin | 📅 2026-09-25) `Apache-2.0`
   `TypeScript`, `Swift`, `Kotlin`
-* [FluffyChat](https://github.com/krille-chan/fluffychat) ⭐ 3,271 | 🐛 578 | 🌐 Dart | 📅 2026-11-02 - Cute instant messaging
+* [FluffyChat](https://github.com/krille-chan/fluffychat) ⭐ 3,275 | 🐛 580 | 🌐 Dart | 📅 2026-11-04 - Cute instant messaging
   app for all platforms. ([Chat](https://matrix.to/#/#fluffychat:matrix.org))
   `AGPL-3.0` `Flutter`
 * [Safesupport chatbox](https://github.com/nomadic-labs/safesupport-chatbox) ⭐ 75 | 🐛 28 | 🌐 JavaScript | 📅 2023-01-05 -
@@ -100,7 +100,7 @@ For a comprehensive list with many more clients along with screenshots, the
 ## Collaborative Documents
 
 * [Matrix CRDT](https://github.com/yousefED/matrix-crdt) ⭐ 785 | 🐛 8 | 🌐 TypeScript | 📅 2024-03-27 - Integrates CRDTs like
-  [Yjs](https://github.com/yjs/yjs) ⭐ 23,020 | 🐛 160 | 🌐 JavaScript | 📅 2026-11-02 with Matrix for storage and sync. `MPL-2.0`
+  [Yjs](https://github.com/yjs/yjs) ⭐ 23,022 | 🐛 161 | 🌐 JavaScript | 📅 2026-11-02 with Matrix for storage and sync. `MPL-2.0`
   `TypeScript`
 * [TheBoard](https://toger5.github.io/TheBoard/) - Collaborative whiteboard
   powered by Matrix. ([Repo](https://github.com/toger5/TheBoard) ⭐ 412 | 🐛 18 | 🌐 JavaScript | 📅 2022-01-13,
@@ -122,7 +122,7 @@ For a comprehensive list with many more clients along with screenshots, the
   state of the symbols (MIL-STD-2525C) drawn on the map. ODIN is an
   offline-first application and uses LevelDB to persist state locally. At the
   lowest level LevelDB operations are replicated.
-  ([Repo](https://github.com/syncpoint/ODINv2) ⭐ 92 | 🐛 20 | 🌐 JavaScript | 📅 2026-10-21,
+  ([Repo](https://github.com/syncpoint/ODINv2) ⭐ 93 | 🐛 20 | 🌐 JavaScript | 📅 2026-10-21,
   [Chat](https://matrix.to/#/#ODIN.Community:syncpoint.io)) `AGPL-3.0`
   `JavaScript`
 
@@ -200,7 +200,7 @@ Research papers and similar documents studying something related to Matrix.
 
 ## SDKs
 
-* [matrix-rust-sdk](https://github.com/matrix-org/matrix-rust-sdk) ⭐ 2,351 | 🐛 360 | 🌐 Rust | 📅 2026-11-03 - A modular
+* [matrix-rust-sdk](https://github.com/matrix-org/matrix-rust-sdk) ⭐ 2,353 | 🐛 360 | 🌐 Rust | 📅 2026-11-04 - A modular
   SDK for writing Matrix clients, written in Rust. Implements Matrix E2EE in
   a separate crate with a [sans I/O](https://sans-io.readthedocs.io/) design.
   `Apache-2.0` `Rust`
@@ -209,7 +209,7 @@ Research papers and similar documents studying something related to Matrix.
 * [SimpleMatrixClient](https://github.com/heusalagroup/fi.hg.matrix#heusalagroupfihgmatrix) ⚠️ Archived -
   Lightweight, zero dep client library written in TypeScript. `MIT` `TypeScript`
 * [Matrix Client API](https://github.com/syncpoint/matrix-client-api) ⭐ 2 | 🐛 1 | 🌐 JavaScript | 📅 2026-05-21 - A
-  bespoke and well focused SDK for [ODIN](https://github.com/syncpoint/ODINv2) ⭐ 92 | 🐛 20 | 🌐 JavaScript | 📅 2026-10-21.
+  bespoke and well focused SDK for [ODIN](https://github.com/syncpoint/ODINv2) ⭐ 93 | 🐛 20 | 🌐 JavaScript | 📅 2026-10-21.
   Lightweight and well-structured; may be useful for beginners to explore how
   the Matrix API works. `MIT` `JavaScript`
 
@@ -253,7 +253,7 @@ Research papers and similar documents studying something related to Matrix.
 * [matrix-widget-api](https://github.com/matrix-org/matrix-widget-api) ⭐ 95 | 🐛 39 | 🌐 TypeScript | 📅 2026-11-02 - A widget
   API abstraction for browsers. ([Chat](https://matrix.to/#/#matrix-widgets:matrix.org))
   `Apache-2.0` `TypeScript`
-* [AlexGames](https://github.com/alexbarry/AlexGames) ⭐ 47 | 🐛 3 | 🌐 Lua | 📅 2026-07-03 - A simple board games
+* [AlexGames](https://github.com/alexbarry/AlexGames) ⭐ 48 | 🐛 3 | 🌐 Lua | 📅 2026-07-03 - A simple board games
   web app that works as a Matrix widget.
   ([Chat](https://matrix.to/#/#alexgames:matrix.org)) `AGPL-3.0-only`
   `Lua`/`JavaScript`/`Rust`/`C`
@@ -284,4 +284,4 @@ Creative Commons Attribution 4.0 International
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
