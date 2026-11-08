@@ -102,7 +102,7 @@
                 "open_issues": 111,
                 "owner": "opsdroid",
                 "repo": "opsdroid",
-                "stars": 866,
+                "stars": 867,
                 "topics": [
                   "asyncio",
                   "bot-framework",
@@ -148,7 +148,7 @@
             "language": "TypeScript",
             "license": "AGPL-3.0",
             "last_commit": "2026-11-06T19:30:56Z",
-            "open_issues": 3681,
+            "open_issues": 3679,
             "owner": "element-hq",
             "repo": "element-web",
             "stars": 13640,
@@ -171,11 +171,11 @@
             "id": 665942673,
             "language": "Dart",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-07T06:04:10Z",
-            "open_issues": 584,
+            "last_commit": "2026-11-08T10:43:17Z",
+            "open_issues": 583,
             "owner": "krille-chan",
             "repo": "fluffychat",
-            "stars": 3280,
+            "stars": 3284,
             "topics": [
               "app",
               "dart",
@@ -336,7 +336,7 @@
             "open_issues": 20,
             "owner": "syncpoint",
             "repo": "ODINv2",
-            "stars": 95,
+            "stars": 96,
             "topics": [
               "mil-std-2525"
             ]
@@ -570,7 +570,7 @@
             "open_issues": 1524,
             "owner": "matrix-org",
             "repo": "synapse",
-            "stars": 12089,
+            "stars": 12090,
             "topics": [
               "matrix-org",
               "python"
@@ -728,7 +728,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T20:20:11.729Z",
+    "last_updated": "2026-11-08T20:38:26.975Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of things related to the Matrix ecosystem, including software, research, etc.",
@@ -740,7 +740,7 @@
       "open_issues": 1,
       "owner": "jryans",
       "repo": "awesome-matrix",
-      "stars": 211,
+      "stars": 212,
       "topics": [
         "awesome",
         "awesome-list",
