@@ -147,11 +147,11 @@
             "id": 39487546,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-06T19:30:56Z",
-            "open_issues": 3679,
+            "last_commit": "2026-11-09T18:31:29Z",
+            "open_issues": 3682,
             "owner": "element-hq",
             "repo": "element-web",
-            "stars": 13640,
+            "stars": 13642,
             "topics": [
               "hacktoberfest",
               "matrix"
@@ -171,11 +171,11 @@
             "id": 665942673,
             "language": "Dart",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-08T10:43:17Z",
-            "open_issues": 583,
+            "last_commit": "2026-11-09T21:36:47Z",
+            "open_issues": 588,
             "owner": "krille-chan",
             "repo": "fluffychat",
-            "stars": 3284,
+            "stars": 3288,
             "topics": [
               "app",
               "dart",
@@ -466,11 +466,11 @@
             "id": 242174446,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-06T17:15:19Z",
+            "last_commit": "2026-11-09T18:48:56Z",
             "open_issues": 364,
             "owner": "matrix-org",
             "repo": "matrix-rust-sdk",
-            "stars": 2353,
+            "stars": 2354,
             "topics": [
               "matrix-org",
               "rust",
@@ -491,8 +491,8 @@
             "id": 989816686,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-01T01:15:07Z",
-            "open_issues": 30,
+            "last_commit": "2026-11-09T06:04:48Z",
+            "open_issues": 25,
             "owner": "Code-Society-Lab",
             "repo": "matrixpy",
             "stars": 14,
@@ -570,7 +570,7 @@
             "open_issues": 1524,
             "owner": "matrix-org",
             "repo": "synapse",
-            "stars": 12090,
+            "stars": 12089,
             "topics": [
               "matrix-org",
               "python"
@@ -650,7 +650,7 @@
             "id": 292927372,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-05T18:07:26Z",
+            "last_commit": "2026-11-09T22:11:43Z",
             "open_issues": 39,
             "owner": "matrix-org",
             "repo": "matrix-widget-api",
@@ -728,7 +728,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T20:38:26.975Z",
+    "last_updated": "2026-11-10T00:19:57.352Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of things related to the Matrix ecosystem, including software, research, etc.",
