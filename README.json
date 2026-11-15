@@ -74,7 +74,7 @@
                 "open_issues": 86,
                 "owner": "maubot",
                 "repo": "maubot",
-                "stars": 903,
+                "stars": 904,
                 "topics": [
                   "asyncio",
                   "chatbot",
@@ -102,7 +102,7 @@
                 "open_issues": 111,
                 "owner": "opsdroid",
                 "repo": "opsdroid",
-                "stars": 867,
+                "stars": 868,
                 "topics": [
                   "asyncio",
                   "bot-framework",
@@ -147,8 +147,8 @@
             "id": 39487546,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-13T22:25:44Z",
-            "open_issues": 3678,
+            "last_commit": "2026-11-15T20:30:07Z",
+            "open_issues": 3688,
             "owner": "element-hq",
             "repo": "element-web",
             "stars": 13660,
@@ -171,11 +171,11 @@
             "id": 665942673,
             "language": "Dart",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-13T17:03:59Z",
-            "open_issues": 590,
+            "last_commit": "2026-11-15T12:03:22Z",
+            "open_issues": 589,
             "owner": "krille-chan",
             "repo": "fluffychat",
-            "stars": 3297,
+            "stars": 3299,
             "topics": [
               "app",
               "dart",
@@ -466,11 +466,11 @@
             "id": 242174446,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-14T09:44:39Z",
+            "last_commit": "2026-11-15T17:48:07Z",
             "open_issues": 351,
             "owner": "matrix-org",
             "repo": "matrix-rust-sdk",
-            "stars": 2359,
+            "stars": 2360,
             "topics": [
               "matrix-org",
               "rust",
@@ -728,7 +728,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T20:48:30.911Z",
+    "last_updated": "2026-11-15T21:07:03.696Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of things related to the Matrix ecosystem, including software, research, etc.",
@@ -740,7 +740,7 @@
       "open_issues": 1,
       "owner": "jryans",
       "repo": "awesome-matrix",
-      "stars": 212,
+      "stars": 213,
       "topics": [
         "awesome",
         "awesome-list",
