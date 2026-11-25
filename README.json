@@ -99,7 +99,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-05-05T08:46:46Z",
-                "open_issues": 109,
+                "open_issues": 111,
                 "owner": "opsdroid",
                 "repo": "opsdroid",
                 "stars": 867,
@@ -147,11 +147,11 @@
             "id": 39487546,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-23T17:55:11Z",
-            "open_issues": 3721,
+            "last_commit": "2026-11-24T17:32:32Z",
+            "open_issues": 3713,
             "owner": "element-hq",
             "repo": "element-web",
-            "stars": 13676,
+            "stars": 13677,
             "topics": [
               "hacktoberfest",
               "matrix"
@@ -171,11 +171,11 @@
             "id": 665942673,
             "language": "Dart",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-21T09:36:39Z",
-            "open_issues": 594,
+            "last_commit": "2026-11-24T14:00:23Z",
+            "open_issues": 600,
             "owner": "krille-chan",
             "repo": "fluffychat",
-            "stars": 3325,
+            "stars": 3328,
             "topics": [
               "app",
               "dart",
@@ -466,11 +466,11 @@
             "id": 242174446,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-23T16:37:42Z",
-            "open_issues": 350,
+            "last_commit": "2026-11-24T21:53:01Z",
+            "open_issues": 349,
             "owner": "matrix-org",
             "repo": "matrix-rust-sdk",
-            "stars": 2365,
+            "stars": 2367,
             "topics": [
               "matrix-org",
               "rust",
@@ -728,7 +728,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T02:57:48.087Z",
+    "last_updated": "2026-11-25T00:54:30.423Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of things related to the Matrix ecosystem, including software, research, etc.",
