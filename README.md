@@ -56,11 +56,11 @@ obvious category to fit into on the matrix.org website.
 ### Multi Purpose Bot Platforms
 
 * [maubot](https://maubot.xyz) - A plugin-based Matrix bot system with over 30
-  plugins for all sorts of things. ([Repo](https://github.com/maubot/maubot) ⭐ 906 | 🐛 86 | 🌐 Python | 📅 2026-11-26,
+  plugins for all sorts of things. ([Repo](https://github.com/maubot/maubot) ⭐ 907 | 🐛 87 | 🌐 Python | 📅 2026-11-26,
   [Chat](https://matrix.to/#/#maubot:maunium.net)) `AGPL-3.0` `Python`
 * [opsdroid](https://opsdroid.dev/) - A flexible multi-platform chat bot
   framework with Matrix support including end to end encryption.
-  ([Repo](https://github.com/opsdroid/opsdroid) ⭐ 867 | 🐛 111 | 🌐 Python | 📅 2026-05-05,
+  ([Repo](https://github.com/opsdroid/opsdroid) ⭐ 868 | 🐛 111 | 🌐 Python | 📅 2026-05-05,
   [Chat](https://matrix.to/#/#opsdroid-general:matrix.org)) `Apache-2.0`
   `Python`
 
@@ -76,11 +76,11 @@ For a comprehensive list with many more clients along with screenshots, the
 [Matrix clients table](https://matrix.org/clients/) is a good resource.
 
 * [Element](https://element.io) - A glossy client with an emphasis on
-  performance and usability. ([Web](https://github.com/vector-im/element-web) ⭐ 13,682 | 🐛 3,709 | 🌐 TypeScript | 📅 2026-11-26,
+  performance and usability. ([Web](https://github.com/vector-im/element-web) ⭐ 13,683 | 🐛 3,708 | 🌐 TypeScript | 📅 2026-11-27,
   [iOS](https://github.com/vector-im/element-ios) ⭐ 1,842 | 🐛 1,760 | 🌐 Swift | 📅 2026-09-24,
   [Android](https://github.com/vector-im/element-android) ⭐ 3,744 | 🐛 2,212 | 🌐 Kotlin | 📅 2026-11-26) `Apache-2.0`
   `TypeScript`, `Swift`, `Kotlin`
-* [FluffyChat](https://github.com/krille-chan/fluffychat) ⭐ 3,335 | 🐛 599 | 🌐 Dart | 📅 2026-11-26 - Cute instant messaging
+* [FluffyChat](https://github.com/krille-chan/fluffychat) ⭐ 3,335 | 🐛 597 | 🌐 Dart | 📅 2026-11-27 - Cute instant messaging
   app for all platforms. ([Chat](https://matrix.to/#/#fluffychat:matrix.org))
   `AGPL-3.0` `Flutter`
 * [Safesupport chatbox](https://github.com/nomadic-labs/safesupport-chatbox) ⭐ 75 | 🐛 28 | 🌐 JavaScript | 📅 2023-01-05 -
@@ -100,7 +100,7 @@ For a comprehensive list with many more clients along with screenshots, the
 ## Collaborative Documents
 
 * [Matrix CRDT](https://github.com/yousefED/matrix-crdt) ⭐ 785 | 🐛 7 | 🌐 TypeScript | 📅 2024-03-27 - Integrates CRDTs like
-  [Yjs](https://github.com/yjs/yjs) ⭐ 23,119 | 🐛 167 | 🌐 JavaScript | 📅 2026-11-23 with Matrix for storage and sync. `MPL-2.0`
+  [Yjs](https://github.com/yjs/yjs) ⭐ 23,123 | 🐛 168 | 🌐 JavaScript | 📅 2026-11-23 with Matrix for storage and sync. `MPL-2.0`
   `TypeScript`
 * [TheBoard](https://toger5.github.io/TheBoard/) - Collaborative whiteboard
   powered by Matrix. ([Repo](https://github.com/toger5/TheBoard) ⭐ 411 | 🐛 18 | 🌐 JavaScript | 📅 2026-11-17,
@@ -122,7 +122,7 @@ For a comprehensive list with many more clients along with screenshots, the
   state of the symbols (MIL-STD-2525C) drawn on the map. ODIN is an
   offline-first application and uses LevelDB to persist state locally. At the
   lowest level LevelDB operations are replicated.
-  ([Repo](https://github.com/syncpoint/ODINv2) ⭐ 98 | 🐛 21 | 🌐 JavaScript | 📅 2026-10-21,
+  ([Repo](https://github.com/syncpoint/ODINv2) ⭐ 98 | 🐛 22 | 🌐 JavaScript | 📅 2026-10-21,
   [Chat](https://matrix.to/#/#ODIN.Community:syncpoint.io)) `AGPL-3.0`
   `JavaScript`
 
@@ -200,16 +200,16 @@ Research papers and similar documents studying something related to Matrix.
 
 ## SDKs
 
-* [matrix-rust-sdk](https://github.com/matrix-org/matrix-rust-sdk) ⭐ 2,368 | 🐛 350 | 🌐 Rust | 📅 2026-11-26 - A modular
+* [matrix-rust-sdk](https://github.com/matrix-org/matrix-rust-sdk) ⭐ 2,369 | 🐛 352 | 🌐 Rust | 📅 2026-11-27 - A modular
   SDK for writing Matrix clients, written in Rust. Implements Matrix E2EE in
   a separate crate with a [sans I/O](https://sans-io.readthedocs.io/) design.
   `Apache-2.0` `Rust`
-* [matrix.py](https://github.com/Code-Society-Lab/matrixpy) ⭐ 15 | 🐛 21 | 🌐 Python | 📅 2026-11-12 - A simple, developer-friendly
+* [matrix.py](https://github.com/Code-Society-Lab/matrixpy) ⭐ 16 | 🐛 21 | 🌐 Python | 📅 2026-11-12 - A simple, developer-friendly
   library to create powerful Matrix bots. `MIT` `Python`
 * [SimpleMatrixClient](https://github.com/heusalagroup/fi.hg.matrix#heusalagroupfihgmatrix) ⚠️ Archived -
   Lightweight, zero dep client library written in TypeScript. `MIT` `TypeScript`
 * [Matrix Client API](https://github.com/syncpoint/matrix-client-api) ⭐ 2 | 🐛 1 | 🌐 JavaScript | 📅 2026-05-21 - A
-  bespoke and well focused SDK for [ODIN](https://github.com/syncpoint/ODINv2) ⭐ 98 | 🐛 21 | 🌐 JavaScript | 📅 2026-10-21.
+  bespoke and well focused SDK for [ODIN](https://github.com/syncpoint/ODINv2) ⭐ 98 | 🐛 22 | 🌐 JavaScript | 📅 2026-10-21.
   Lightweight and well-structured; may be useful for beginners to explore how
   the Matrix API works. `MIT` `JavaScript`
 
@@ -284,4 +284,4 @@ Creative Commons Attribution 4.0 International
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-28._
